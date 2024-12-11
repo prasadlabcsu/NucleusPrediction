@@ -1,0 +1,3872 @@
+Epoch: {1}/{10} | Time: 2024-10-20 01:05:31.948885
+============================================= 
+ 
+Batch: {1}/{127} | Time: 2024-10-20 01:06:10.254508
+Reconstruction Loss: 70123.68
+ 
+Batch: {2}/{127} | Time: 2024-10-20 01:06:35.059481
+Reconstruction Loss: 46836.93
+ 
+Batch: {3}/{127} | Time: 2024-10-20 01:06:44.662847
+Reconstruction Loss: 60005.05
+ 
+Batch: {4}/{127} | Time: 2024-10-20 01:07:02.315203
+Reconstruction Loss: 37241.883
+ 
+Batch: {5}/{127} | Time: 2024-10-20 01:07:30.436583
+Reconstruction Loss: 27210.822
+ 
+Batch: {6}/{127} | Time: 2024-10-20 01:07:52.343621
+Reconstruction Loss: 21565.918
+ 
+Batch: {7}/{127} | Time: 2024-10-20 01:08:08.707908
+Reconstruction Loss: 38696.09
+ 
+Batch: {8}/{127} | Time: 2024-10-20 01:08:50.529545
+Reconstruction Loss: 22306.664
+ 
+Batch: {9}/{127} | Time: 2024-10-20 01:09:13.871948
+Reconstruction Loss: 29115.088
+ 
+Batch: {10}/{127} | Time: 2024-10-20 01:09:44.194350
+Reconstruction Loss: 25363.271
+ 
+Batch: {11}/{127} | Time: 2024-10-20 01:10:12.449866
+Reconstruction Loss: 23608.738
+ 
+Batch: {12}/{127} | Time: 2024-10-20 01:11:03.409664
+Reconstruction Loss: 15918.096
+ 
+Batch: {13}/{127} | Time: 2024-10-20 01:11:22.821613
+Reconstruction Loss: 21359.662
+ 
+Batch: {14}/{127} | Time: 2024-10-20 01:11:56.387343
+Reconstruction Loss: 21314.594
+ 
+Batch: {15}/{127} | Time: 2024-10-20 01:12:23.293150
+Reconstruction Loss: 18794.996
+ 
+Batch: {16}/{127} | Time: 2024-10-20 01:12:42.599275
+Reconstruction Loss: 25409.154
+ 
+Batch: {17}/{127} | Time: 2024-10-20 01:13:29.272867
+Reconstruction Loss: 14145.525
+ 
+Batch: {18}/{127} | Time: 2024-10-20 01:13:57.381377
+Reconstruction Loss: 20503.047
+ 
+Batch: {19}/{127} | Time: 2024-10-20 01:14:17.804056
+Reconstruction Loss: 26988.656
+ 
+Batch: {20}/{127} | Time: 2024-10-20 01:14:30.372817
+Reconstruction Loss: 28913.066
+ 
+Batch: {21}/{127} | Time: 2024-10-20 01:15:08.921612
+Reconstruction Loss: 13229.622
+ 
+Batch: {22}/{127} | Time: 2024-10-20 01:15:15.303250
+Reconstruction Loss: 27446.365
+ 
+Batch: {23}/{127} | Time: 2024-10-20 01:15:32.074929
+Reconstruction Loss: 23119.434
+ 
+Batch: {24}/{127} | Time: 2024-10-20 01:15:56.667004
+Reconstruction Loss: 18328.65
+ 
+Batch: {25}/{127} | Time: 2024-10-20 01:16:21.526708
+Reconstruction Loss: 18319.666
+ 
+Batch: {26}/{127} | Time: 2024-10-20 01:16:59.688718
+Reconstruction Loss: 12897.08
+ 
+Batch: {27}/{127} | Time: 2024-10-20 01:17:10.187275
+Reconstruction Loss: 25773.434
+ 
+Batch: {28}/{127} | Time: 2024-10-20 01:17:25.898503
+Reconstruction Loss: 25328.867
+ 
+Batch: {29}/{127} | Time: 2024-10-20 01:17:59.146123
+Reconstruction Loss: 11843.1875
+ 
+Batch: {30}/{127} | Time: 2024-10-20 01:18:20.259361
+Reconstruction Loss: 21943.615
+ 
+Batch: {31}/{127} | Time: 2024-10-20 01:18:38.284786
+Reconstruction Loss: 22527.209
+ 
+Batch: {32}/{127} | Time: 2024-10-20 01:19:01.523554
+Reconstruction Loss: 19319.225
+ 
+Batch: {33}/{127} | Time: 2024-10-20 01:19:24.609604
+Reconstruction Loss: 29577.09
+ 
+Batch: {34}/{127} | Time: 2024-10-20 01:20:02.345450
+Reconstruction Loss: 14183.861
+ 
+Batch: {35}/{127} | Time: 2024-10-20 01:20:17.944588
+Reconstruction Loss: 24979.543
+ 
+Batch: {36}/{127} | Time: 2024-10-20 01:20:47.791675
+Reconstruction Loss: 20691.9
+ 
+Batch: {37}/{127} | Time: 2024-10-20 01:21:19.526502
+Reconstruction Loss: 27916.047
+ 
+Batch: {38}/{127} | Time: 2024-10-20 01:21:39.109542
+Reconstruction Loss: 18954.916
+ 
+Batch: {39}/{127} | Time: 2024-10-20 01:22:17.843054
+Reconstruction Loss: 11465.754
+ 
+Batch: {40}/{127} | Time: 2024-10-20 01:22:40.684620
+Reconstruction Loss: 23733.754
+ 
+Batch: {41}/{127} | Time: 2024-10-20 01:22:57.779279
+Reconstruction Loss: 35443.992
+ 
+Batch: {42}/{127} | Time: 2024-10-20 01:23:19.484590
+Reconstruction Loss: 26897.203
+ 
+Batch: {43}/{127} | Time: 2024-10-20 01:23:39.119022
+Reconstruction Loss: 29388.605
+ 
+Batch: {44}/{127} | Time: 2024-10-20 01:23:55.224853
+Reconstruction Loss: 31463.99
+ 
+Batch: {45}/{127} | Time: 2024-10-20 01:24:07.028408
+Reconstruction Loss: 24015.691
+ 
+Batch: {46}/{127} | Time: 2024-10-20 01:24:24.248027
+Reconstruction Loss: 23927.621
+ 
+Batch: {47}/{127} | Time: 2024-10-20 01:24:44.869932
+Reconstruction Loss: 20522.27
+ 
+Batch: {48}/{127} | Time: 2024-10-20 01:25:15.911543
+Reconstruction Loss: 34653.82
+ 
+Batch: {49}/{127} | Time: 2024-10-20 01:25:46.463978
+Reconstruction Loss: 15466.778
+ 
+Batch: {50}/{127} | Time: 2024-10-20 01:25:56.276377
+Reconstruction Loss: 25763.621
+ 
+Batch: {51}/{127} | Time: 2024-10-20 01:26:08.440184
+Reconstruction Loss: 24956.936
+ 
+Batch: {52}/{127} | Time: 2024-10-20 01:26:35.378304
+Reconstruction Loss: 26540.885
+ 
+Batch: {53}/{127} | Time: 2024-10-20 01:26:58.531189
+Reconstruction Loss: 16325.206
+ 
+Batch: {54}/{127} | Time: 2024-10-20 01:27:15.450364
+Reconstruction Loss: 25061.465
+ 
+Batch: {55}/{127} | Time: 2024-10-20 01:27:45.645711
+Reconstruction Loss: 26503.807
+ 
+Batch: {56}/{127} | Time: 2024-10-20 01:28:25.196223
+Reconstruction Loss: 17314.307
+ 
+Batch: {57}/{127} | Time: 2024-10-20 01:28:58.226681
+Reconstruction Loss: 7974.779
+ 
+Batch: {58}/{127} | Time: 2024-10-20 01:29:20.622545
+Reconstruction Loss: 18437.535
+ 
+Batch: {59}/{127} | Time: 2024-10-20 01:29:45.273896
+Reconstruction Loss: 14628.451
+ 
+Batch: {60}/{127} | Time: 2024-10-20 01:30:25.318601
+Reconstruction Loss: 10544.339
+ 
+Batch: {61}/{127} | Time: 2024-10-20 01:30:41.046541
+Reconstruction Loss: 21115.459
+ 
+Batch: {62}/{127} | Time: 2024-10-20 01:31:04.100498
+Reconstruction Loss: 20742.924
+ 
+Batch: {63}/{127} | Time: 2024-10-20 01:31:23.348433
+Reconstruction Loss: 23407.227
+ 
+Batch: {64}/{127} | Time: 2024-10-20 01:31:46.190453
+Reconstruction Loss: 19762.854
+ 
+Batch: {65}/{127} | Time: 2024-10-20 01:32:04.895589
+Reconstruction Loss: 22906.629
+ 
+Batch: {66}/{127} | Time: 2024-10-20 01:32:42.462561
+Reconstruction Loss: 15185.264
+ 
+Batch: {67}/{127} | Time: 2024-10-20 01:33:08.449901
+Reconstruction Loss: 17465.16
+ 
+Batch: {68}/{127} | Time: 2024-10-20 01:33:39.371761
+Reconstruction Loss: 20735.996
+ 
+Batch: {69}/{127} | Time: 2024-10-20 01:33:55.910223
+Reconstruction Loss: 23409.975
+ 
+Batch: {70}/{127} | Time: 2024-10-20 01:34:18.399321
+Reconstruction Loss: 18456.18
+ 
+Batch: {71}/{127} | Time: 2024-10-20 01:34:54.613543
+Reconstruction Loss: 15444.231
+ 
+Batch: {72}/{127} | Time: 2024-10-20 01:35:23.183462
+Reconstruction Loss: 20271.943
+ 
+Batch: {73}/{127} | Time: 2024-10-20 01:35:42.363323
+Reconstruction Loss: 21826.707
+ 
+Batch: {74}/{127} | Time: 2024-10-20 01:36:11.355533
+Reconstruction Loss: 18670.496
+ 
+Batch: {75}/{127} | Time: 2024-10-20 01:36:29.211300
+Reconstruction Loss: 17327.7
+ 
+Batch: {76}/{127} | Time: 2024-10-20 01:36:57.184158
+Reconstruction Loss: 15002.722
+ 
+Batch: {77}/{127} | Time: 2024-10-20 01:37:26.707061
+Reconstruction Loss: 19474.004
+ 
+Batch: {78}/{127} | Time: 2024-10-20 01:37:38.141698
+Reconstruction Loss: 23844.463
+ 
+Batch: {79}/{127} | Time: 2024-10-20 01:38:07.605825
+Reconstruction Loss: 21961.678
+ 
+Batch: {80}/{127} | Time: 2024-10-20 01:38:30.701524
+Reconstruction Loss: 18665.682
+ 
+Batch: {81}/{127} | Time: 2024-10-20 01:38:50.772492
+Reconstruction Loss: 20373.748
+ 
+Batch: {82}/{127} | Time: 2024-10-20 01:39:11.740978
+Reconstruction Loss: 23717.7
+ 
+Batch: {83}/{127} | Time: 2024-10-20 01:39:35.920935
+Reconstruction Loss: 16676.574
+ 
+Batch: {84}/{127} | Time: 2024-10-20 01:40:00.895214
+Reconstruction Loss: 17439.586
+ 
+Batch: {85}/{127} | Time: 2024-10-20 01:40:27.613920
+Reconstruction Loss: 12325.908
+ 
+Batch: {86}/{127} | Time: 2024-10-20 01:41:03.001457
+Reconstruction Loss: 25902.027
+ 
+Batch: {87}/{127} | Time: 2024-10-20 01:41:21.521807
+Reconstruction Loss: 24369.965
+ 
+Batch: {88}/{127} | Time: 2024-10-20 01:41:57.037577
+Reconstruction Loss: 11312.087
+ 
+Batch: {89}/{127} | Time: 2024-10-20 01:42:23.463343
+Reconstruction Loss: 20199.895
+ 
+Batch: {90}/{127} | Time: 2024-10-20 01:42:41.660648
+Reconstruction Loss: 15737.271
+ 
+Batch: {91}/{127} | Time: 2024-10-20 01:43:02.844431
+Reconstruction Loss: 17815.324
+ 
+Batch: {92}/{127} | Time: 2024-10-20 01:43:29.275123
+Reconstruction Loss: 28215.074
+ 
+Batch: {93}/{127} | Time: 2024-10-20 01:43:49.792477
+Reconstruction Loss: 21203.625
+ 
+Batch: {94}/{127} | Time: 2024-10-20 01:44:13.018153
+Reconstruction Loss: 23446.754
+ 
+Batch: {95}/{127} | Time: 2024-10-20 01:44:34.259359
+Reconstruction Loss: 22692.004
+ 
+Batch: {96}/{127} | Time: 2024-10-20 01:44:52.670922
+Reconstruction Loss: 27875.918
+ 
+Batch: {97}/{127} | Time: 2024-10-20 01:44:58.716972
+Reconstruction Loss: 20973.867
+ 
+Batch: {98}/{127} | Time: 2024-10-20 01:45:04.211458
+Reconstruction Loss: 34096.81
+ 
+Batch: {99}/{127} | Time: 2024-10-20 01:45:21.821710
+Reconstruction Loss: 23677.506
+ 
+Batch: {100}/{127} | Time: 2024-10-20 01:45:40.260105
+Reconstruction Loss: 23799.635
+ 
+Batch: {101}/{127} | Time: 2024-10-20 01:46:10.422486
+Reconstruction Loss: 17362.145
+ 
+Batch: {102}/{127} | Time: 2024-10-20 01:46:22.615267
+Reconstruction Loss: 24578.275
+ 
+Batch: {103}/{127} | Time: 2024-10-20 01:46:40.451884
+Reconstruction Loss: 31906.338
+ 
+Batch: {104}/{127} | Time: 2024-10-20 01:46:59.197182
+Reconstruction Loss: 29853.066
+ 
+Batch: {105}/{127} | Time: 2024-10-20 01:47:41.376112
+Reconstruction Loss: 17586.59
+ 
+Batch: {106}/{127} | Time: 2024-10-20 01:47:50.933596
+Reconstruction Loss: 20093.984
+ 
+Batch: {107}/{127} | Time: 2024-10-20 01:48:35.108608
+Reconstruction Loss: 19217.975
+ 
+Batch: {108}/{127} | Time: 2024-10-20 01:48:47.953264
+Reconstruction Loss: 26293.512
+ 
+Batch: {109}/{127} | Time: 2024-10-20 01:49:04.685137
+Reconstruction Loss: 20904.537
+ 
+Batch: {110}/{127} | Time: 2024-10-20 01:49:10.290647
+Reconstruction Loss: 27350.043
+ 
+Batch: {111}/{127} | Time: 2024-10-20 01:49:18.526521
+Reconstruction Loss: 22479.95
+ 
+Batch: {112}/{127} | Time: 2024-10-20 01:49:47.550856
+Reconstruction Loss: 16530.848
+ 
+Batch: {113}/{127} | Time: 2024-10-20 01:49:50.265716
+Reconstruction Loss: 31932.26
+ 
+Batch: {114}/{127} | Time: 2024-10-20 01:49:59.498783
+Reconstruction Loss: 27296.465
+ 
+Batch: {115}/{127} | Time: 2024-10-20 01:50:18.824338
+Reconstruction Loss: 15047.669
+ 
+Batch: {116}/{127} | Time: 2024-10-20 01:50:34.026088
+Reconstruction Loss: 24495.324
+ 
+Batch: {117}/{127} | Time: 2024-10-20 01:50:51.775598
+Reconstruction Loss: 23862.156
+ 
+Batch: {118}/{127} | Time: 2024-10-20 01:51:22.205188
+Reconstruction Loss: 14800.068
+ 
+Batch: {119}/{127} | Time: 2024-10-20 01:51:34.847392
+Reconstruction Loss: 27568.043
+ 
+Batch: {120}/{127} | Time: 2024-10-20 01:51:54.046026
+Reconstruction Loss: 21108.81
+ 
+Batch: {121}/{127} | Time: 2024-10-20 01:52:03.670862
+Reconstruction Loss: 28936.037
+ 
+Batch: {122}/{127} | Time: 2024-10-20 01:52:17.339903
+Reconstruction Loss: 25029.475
+ 
+Batch: {123}/{127} | Time: 2024-10-20 01:52:38.179920
+Reconstruction Loss: 13565.669
+ 
+Batch: {124}/{127} | Time: 2024-10-20 01:53:02.755900
+Reconstruction Loss: 26324.645
+ 
+Batch: {125}/{127} | Time: 2024-10-20 01:53:18.634417
+Reconstruction Loss: 25484.9
+ 
+Batch: {126}/{127} | Time: 2024-10-20 01:53:47.576070
+Reconstruction Loss: 17333.115
+ 
+Batch: {127}/{127} | Time: 2024-10-20 01:54:04.132427
+Reconstruction Loss: 16722.861
+ 
+Validation of Epoch 1: | Time: 2024-10-20 01:59:41.587417
+Reconstruction Loss: 19026.52
+ 
+Epoch: {2}/{10} | Time: 2024-10-20 01:59:41.828796
+============================================= 
+ 
+Batch: {1}/{127} | Time: 2024-10-20 02:00:09.611315
+Reconstruction Loss: 24190.16
+ 
+Batch: {2}/{127} | Time: 2024-10-20 02:00:55.348249
+Reconstruction Loss: 11383.489
+ 
+Batch: {3}/{127} | Time: 2024-10-20 02:01:20.029999
+Reconstruction Loss: 26207.334
+ 
+Batch: {4}/{127} | Time: 2024-10-20 02:01:43.469579
+Reconstruction Loss: 18740.395
+ 
+Batch: {5}/{127} | Time: 2024-10-20 02:02:05.033195
+Reconstruction Loss: 19345.982
+ 
+Batch: {6}/{127} | Time: 2024-10-20 02:02:13.100095
+Reconstruction Loss: 20262.209
+ 
+Batch: {7}/{127} | Time: 2024-10-20 02:02:35.380000
+Reconstruction Loss: 17888.303
+ 
+Batch: {8}/{127} | Time: 2024-10-20 02:02:53.821250
+Reconstruction Loss: 17307.055
+ 
+Batch: {9}/{127} | Time: 2024-10-20 02:03:21.783953
+Reconstruction Loss: 19287.594
+ 
+Batch: {10}/{127} | Time: 2024-10-20 02:03:51.491258
+Reconstruction Loss: 29885.73
+ 
+Batch: {11}/{127} | Time: 2024-10-20 02:04:01.035465
+Reconstruction Loss: 28048.2
+ 
+Batch: {12}/{127} | Time: 2024-10-20 02:04:19.681263
+Reconstruction Loss: 19382.457
+ 
+Batch: {13}/{127} | Time: 2024-10-20 02:04:54.529799
+Reconstruction Loss: 10803.486
+ 
+Batch: {14}/{127} | Time: 2024-10-20 02:05:22.605708
+Reconstruction Loss: 12615.045
+ 
+Batch: {15}/{127} | Time: 2024-10-20 02:05:47.585051
+Reconstruction Loss: 20724.256
+ 
+Batch: {16}/{127} | Time: 2024-10-20 02:06:00.142671
+Reconstruction Loss: 22506.607
+ 
+Batch: {17}/{127} | Time: 2024-10-20 02:06:18.364784
+Reconstruction Loss: 12065.934
+ 
+Batch: {18}/{127} | Time: 2024-10-20 02:06:37.860112
+Reconstruction Loss: 22581.857
+ 
+Batch: {19}/{127} | Time: 2024-10-20 02:07:05.465756
+Reconstruction Loss: 15812.841
+ 
+Batch: {20}/{127} | Time: 2024-10-20 02:07:39.566258
+Reconstruction Loss: 12038.978
+ 
+Batch: {21}/{127} | Time: 2024-10-20 02:08:21.193273
+Reconstruction Loss: 10215.779
+ 
+Batch: {22}/{127} | Time: 2024-10-20 02:09:04.785730
+Reconstruction Loss: 20136.656
+ 
+Batch: {23}/{127} | Time: 2024-10-20 02:09:20.302398
+Reconstruction Loss: 14320.705
+ 
+Batch: {24}/{127} | Time: 2024-10-20 02:09:46.680869
+Reconstruction Loss: 13971.685
+ 
+Batch: {25}/{127} | Time: 2024-10-20 02:10:09.301389
+Reconstruction Loss: 13589.873
+ 
+Batch: {26}/{127} | Time: 2024-10-20 02:10:18.901684
+Reconstruction Loss: 22842.143
+ 
+Batch: {27}/{127} | Time: 2024-10-20 02:10:40.291061
+Reconstruction Loss: 23705.299
+ 
+Batch: {28}/{127} | Time: 2024-10-20 02:11:04.143203
+Reconstruction Loss: 15338.936
+ 
+Batch: {29}/{127} | Time: 2024-10-20 02:11:39.228682
+Reconstruction Loss: 17399.91
+ 
+Batch: {30}/{127} | Time: 2024-10-20 02:11:45.270930
+Reconstruction Loss: 28013.412
+ 
+Batch: {31}/{127} | Time: 2024-10-20 02:12:15.650624
+Reconstruction Loss: 18251.754
+ 
+Batch: {32}/{127} | Time: 2024-10-20 02:12:31.306175
+Reconstruction Loss: 19490.844
+ 
+Batch: {33}/{127} | Time: 2024-10-20 02:12:48.390700
+Reconstruction Loss: 21133.645
+ 
+Batch: {34}/{127} | Time: 2024-10-20 02:13:13.205186
+Reconstruction Loss: 22952.656
+ 
+Batch: {35}/{127} | Time: 2024-10-20 02:13:44.858865
+Reconstruction Loss: 12992.509
+ 
+Batch: {36}/{127} | Time: 2024-10-20 02:14:07.872404
+Reconstruction Loss: 27091.129
+ 
+Batch: {37}/{127} | Time: 2024-10-20 02:14:24.551187
+Reconstruction Loss: 25765.816
+ 
+Batch: {38}/{127} | Time: 2024-10-20 02:14:36.919250
+Reconstruction Loss: 37329.492
+ 
+Batch: {39}/{127} | Time: 2024-10-20 02:14:54.360734
+Reconstruction Loss: 28102.922
+ 
+Batch: {40}/{127} | Time: 2024-10-20 02:15:10.343056
+Reconstruction Loss: 16461.254
+ 
+Batch: {41}/{127} | Time: 2024-10-20 02:15:26.757326
+Reconstruction Loss: 22764.842
+ 
+Batch: {42}/{127} | Time: 2024-10-20 02:15:53.527956
+Reconstruction Loss: 14462.8125
+ 
+Batch: {43}/{127} | Time: 2024-10-20 02:16:11.357465
+Reconstruction Loss: 11513.022
+ 
+Batch: {44}/{127} | Time: 2024-10-20 02:16:27.431280
+Reconstruction Loss: 21425.426
+ 
+Batch: {45}/{127} | Time: 2024-10-20 02:16:43.393678
+Reconstruction Loss: 21750.402
+ 
+Batch: {46}/{127} | Time: 2024-10-20 02:17:23.748261
+Reconstruction Loss: 7947.5444
+ 
+Batch: {47}/{127} | Time: 2024-10-20 02:17:36.021130
+Reconstruction Loss: 27239.707
+ 
+Batch: {48}/{127} | Time: 2024-10-20 02:18:00.140424
+Reconstruction Loss: 24491.572
+ 
+Batch: {49}/{127} | Time: 2024-10-20 02:18:23.039998
+Reconstruction Loss: 19019.658
+ 
+Batch: {50}/{127} | Time: 2024-10-20 02:18:57.120948
+Reconstruction Loss: 15454.969
+ 
+Batch: {51}/{127} | Time: 2024-10-20 02:19:45.474498
+Reconstruction Loss: 8267.2295
+ 
+Batch: {52}/{127} | Time: 2024-10-20 02:20:14.734655
+Reconstruction Loss: 14546.385
+ 
+Batch: {53}/{127} | Time: 2024-10-20 02:20:35.721737
+Reconstruction Loss: 23641.664
+ 
+Batch: {54}/{127} | Time: 2024-10-20 02:21:06.773248
+Reconstruction Loss: 12994.914
+ 
+Batch: {55}/{127} | Time: 2024-10-20 02:21:27.976654
+Reconstruction Loss: 21158.166
+ 
+Batch: {56}/{127} | Time: 2024-10-20 02:21:43.413013
+Reconstruction Loss: 23041.26
+ 
+Batch: {57}/{127} | Time: 2024-10-20 02:22:01.633733
+Reconstruction Loss: 18110.594
+ 
+Batch: {58}/{127} | Time: 2024-10-20 02:22:18.234572
+Reconstruction Loss: 22365.006
+ 
+Batch: {59}/{127} | Time: 2024-10-20 02:22:29.777500
+Reconstruction Loss: 30031.38
+ 
+Batch: {60}/{127} | Time: 2024-10-20 02:22:42.679495
+Reconstruction Loss: 26006.855
+ 
+Batch: {61}/{127} | Time: 2024-10-20 02:23:15.230314
+Reconstruction Loss: 14355.856
+ 
+Batch: {62}/{127} | Time: 2024-10-20 02:23:43.443590
+Reconstruction Loss: 18600.236
+ 
+Batch: {63}/{127} | Time: 2024-10-20 02:23:52.603952
+Reconstruction Loss: 32127.322
+ 
+Batch: {64}/{127} | Time: 2024-10-20 02:24:40.039551
+Reconstruction Loss: 12856.982
+ 
+Batch: {65}/{127} | Time: 2024-10-20 02:24:59.416961
+Reconstruction Loss: 16236.201
+ 
+Batch: {66}/{127} | Time: 2024-10-20 02:25:20.775648
+Reconstruction Loss: 14038.279
+ 
+Batch: {67}/{127} | Time: 2024-10-20 02:25:26.279433
+Reconstruction Loss: 23312.691
+ 
+Batch: {68}/{127} | Time: 2024-10-20 02:25:39.836428
+Reconstruction Loss: 23692.846
+ 
+Batch: {69}/{127} | Time: 2024-10-20 02:26:05.356159
+Reconstruction Loss: 30255.906
+ 
+Batch: {70}/{127} | Time: 2024-10-20 02:26:34.635162
+Reconstruction Loss: 19815.568
+ 
+Batch: {71}/{127} | Time: 2024-10-20 02:26:57.592287
+Reconstruction Loss: 15190.44
+ 
+Batch: {72}/{127} | Time: 2024-10-20 02:27:03.021099
+Reconstruction Loss: 24806.668
+ 
+Batch: {73}/{127} | Time: 2024-10-20 02:27:19.379727
+Reconstruction Loss: 17606.832
+ 
+Batch: {74}/{127} | Time: 2024-10-20 02:27:45.330648
+Reconstruction Loss: 16558.834
+ 
+Batch: {75}/{127} | Time: 2024-10-20 02:28:17.198899
+Reconstruction Loss: 22456.686
+ 
+Batch: {76}/{127} | Time: 2024-10-20 02:28:36.571277
+Reconstruction Loss: 15098.917
+ 
+Batch: {77}/{127} | Time: 2024-10-20 02:28:59.705568
+Reconstruction Loss: 24543.332
+ 
+Batch: {78}/{127} | Time: 2024-10-20 02:29:24.715029
+Reconstruction Loss: 24049.215
+ 
+Batch: {79}/{127} | Time: 2024-10-20 02:29:38.898591
+Reconstruction Loss: 24859.834
+ 
+Batch: {80}/{127} | Time: 2024-10-20 02:30:00.914645
+Reconstruction Loss: 21656.91
+ 
+Batch: {81}/{127} | Time: 2024-10-20 02:30:45.217631
+Reconstruction Loss: 8147.138
+ 
+Batch: {82}/{127} | Time: 2024-10-20 02:31:09.041716
+Reconstruction Loss: 19961.715
+ 
+Batch: {83}/{127} | Time: 2024-10-20 02:31:24.755837
+Reconstruction Loss: 22280.57
+ 
+Batch: {84}/{127} | Time: 2024-10-20 02:31:40.193750
+Reconstruction Loss: 22521.723
+ 
+Batch: {85}/{127} | Time: 2024-10-20 02:32:10.490512
+Reconstruction Loss: 21848.256
+ 
+Batch: {86}/{127} | Time: 2024-10-20 02:32:44.970728
+Reconstruction Loss: 14099.375
+ 
+Batch: {87}/{127} | Time: 2024-10-20 02:33:00.145504
+Reconstruction Loss: 23517.178
+ 
+Batch: {88}/{127} | Time: 2024-10-20 02:33:18.963738
+Reconstruction Loss: 20836.723
+ 
+Batch: {89}/{127} | Time: 2024-10-20 02:33:45.681903
+Reconstruction Loss: 17421.082
+ 
+Batch: {90}/{127} | Time: 2024-10-20 02:34:13.747579
+Reconstruction Loss: 20331.363
+ 
+Batch: {91}/{127} | Time: 2024-10-20 02:34:31.232733
+Reconstruction Loss: 24899.982
+ 
+Batch: {92}/{127} | Time: 2024-10-20 02:35:03.212541
+Reconstruction Loss: 13626.15
+ 
+Batch: {93}/{127} | Time: 2024-10-20 02:35:29.585902
+Reconstruction Loss: 19561.475
+ 
+Batch: {94}/{127} | Time: 2024-10-20 02:35:46.805397
+Reconstruction Loss: 23792.328
+ 
+Batch: {95}/{127} | Time: 2024-10-20 02:36:20.823512
+Reconstruction Loss: 18422.74
+ 
+Batch: {96}/{127} | Time: 2024-10-20 02:36:50.073394
+Reconstruction Loss: 19012.668
+ 
+Batch: {97}/{127} | Time: 2024-10-20 02:37:10.396007
+Reconstruction Loss: 23966.186
+ 
+Batch: {98}/{127} | Time: 2024-10-20 02:37:22.710051
+Reconstruction Loss: 26148.926
+ 
+Batch: {99}/{127} | Time: 2024-10-20 02:38:12.841063
+Reconstruction Loss: 16280.391
+ 
+Batch: {100}/{127} | Time: 2024-10-20 02:38:32.055736
+Reconstruction Loss: 26276.293
+ 
+Batch: {101}/{127} | Time: 2024-10-20 02:38:47.132477
+Reconstruction Loss: 24484.33
+ 
+Batch: {102}/{127} | Time: 2024-10-20 02:39:07.993311
+Reconstruction Loss: 23435.12
+ 
+Batch: {103}/{127} | Time: 2024-10-20 02:39:46.740960
+Reconstruction Loss: 9732.644
+ 
+Batch: {104}/{127} | Time: 2024-10-20 02:40:01.822753
+Reconstruction Loss: 18065.646
+ 
+Batch: {105}/{127} | Time: 2024-10-20 02:40:20.715288
+Reconstruction Loss: 17818.512
+ 
+Batch: {106}/{127} | Time: 2024-10-20 02:40:29.113897
+Reconstruction Loss: 28273.88
+ 
+Batch: {107}/{127} | Time: 2024-10-20 02:40:56.403187
+Reconstruction Loss: 25185.184
+ 
+Batch: {108}/{127} | Time: 2024-10-20 02:41:18.418136
+Reconstruction Loss: 18639.03
+ 
+Batch: {109}/{127} | Time: 2024-10-20 02:41:44.547251
+Reconstruction Loss: 21402.865
+ 
+Batch: {110}/{127} | Time: 2024-10-20 02:41:56.630304
+Reconstruction Loss: 25485.39
+ 
+Batch: {111}/{127} | Time: 2024-10-20 02:42:12.471740
+Reconstruction Loss: 27600.975
+ 
+Batch: {112}/{127} | Time: 2024-10-20 02:42:38.011266
+Reconstruction Loss: 19464.488
+ 
+Batch: {113}/{127} | Time: 2024-10-20 02:42:55.249610
+Reconstruction Loss: 20678.031
+ 
+Batch: {114}/{127} | Time: 2024-10-20 02:43:25.193890
+Reconstruction Loss: 22570.506
+ 
+Batch: {115}/{127} | Time: 2024-10-20 02:44:02.719035
+Reconstruction Loss: 7143.2866
+ 
+Batch: {116}/{127} | Time: 2024-10-20 02:44:18.185528
+Reconstruction Loss: 27648.965
+ 
+Batch: {117}/{127} | Time: 2024-10-20 02:44:33.804903
+Reconstruction Loss: 15846.906
+ 
+Batch: {118}/{127} | Time: 2024-10-20 02:44:56.914251
+Reconstruction Loss: 19290.832
+ 
+Batch: {119}/{127} | Time: 2024-10-20 02:45:20.565227
+Reconstruction Loss: 17197.727
+ 
+Batch: {120}/{127} | Time: 2024-10-20 02:45:45.882896
+Reconstruction Loss: 18793.771
+ 
+Batch: {121}/{127} | Time: 2024-10-20 02:46:01.485459
+Reconstruction Loss: 24311.861
+ 
+Batch: {122}/{127} | Time: 2024-10-20 02:46:20.952631
+Reconstruction Loss: 21831.98
+ 
+Batch: {123}/{127} | Time: 2024-10-20 02:46:59.107869
+Reconstruction Loss: 11066.028
+ 
+Batch: {124}/{127} | Time: 2024-10-20 02:47:25.301201
+Reconstruction Loss: 16664.338
+ 
+Batch: {125}/{127} | Time: 2024-10-20 02:47:38.513074
+Reconstruction Loss: 19251.291
+ 
+Batch: {126}/{127} | Time: 2024-10-20 02:48:00.880767
+Reconstruction Loss: 20710.723
+ 
+Batch: {127}/{127} | Time: 2024-10-20 02:48:23.698430
+Reconstruction Loss: 18010.516
+ 
+Validation of Epoch 2: | Time: 2024-10-20 02:53:05.493848
+Reconstruction Loss: 18753.006
+ 
+Epoch: {3}/{10} | Time: 2024-10-20 02:53:05.741024
+============================================= 
+ 
+Batch: {1}/{127} | Time: 2024-10-20 02:53:21.350557
+Reconstruction Loss: 18343.965
+ 
+Batch: {2}/{127} | Time: 2024-10-20 02:53:38.775222
+Reconstruction Loss: 21642.473
+ 
+Batch: {3}/{127} | Time: 2024-10-20 02:53:54.721567
+Reconstruction Loss: 22473.713
+ 
+Batch: {4}/{127} | Time: 2024-10-20 02:54:06.988861
+Reconstruction Loss: 28922.223
+ 
+Batch: {5}/{127} | Time: 2024-10-20 02:54:38.341993
+Reconstruction Loss: 18519.752
+ 
+Batch: {6}/{127} | Time: 2024-10-20 02:54:54.063318
+Reconstruction Loss: 22829.582
+ 
+Batch: {7}/{127} | Time: 2024-10-20 02:55:11.236834
+Reconstruction Loss: 18522.361
+ 
+Batch: {8}/{127} | Time: 2024-10-20 02:55:29.727024
+Reconstruction Loss: 13978.25
+ 
+Batch: {9}/{127} | Time: 2024-10-20 02:55:49.749786
+Reconstruction Loss: 22000.293
+ 
+Batch: {10}/{127} | Time: 2024-10-20 02:56:14.611751
+Reconstruction Loss: 14829.635
+ 
+Batch: {11}/{127} | Time: 2024-10-20 02:56:57.695781
+Reconstruction Loss: 9697.736
+ 
+Batch: {12}/{127} | Time: 2024-10-20 02:57:27.030809
+Reconstruction Loss: 20475.059
+ 
+Batch: {13}/{127} | Time: 2024-10-20 02:58:02.447251
+Reconstruction Loss: 18533.697
+ 
+Batch: {14}/{127} | Time: 2024-10-20 02:58:30.793837
+Reconstruction Loss: 14007.295
+ 
+Batch: {15}/{127} | Time: 2024-10-20 02:59:02.056433
+Reconstruction Loss: 10633.303
+ 
+Batch: {16}/{127} | Time: 2024-10-20 02:59:11.160272
+Reconstruction Loss: 22532.793
+ 
+Batch: {17}/{127} | Time: 2024-10-20 02:59:20.623448
+Reconstruction Loss: 26351.38
+ 
+Batch: {18}/{127} | Time: 2024-10-20 02:59:44.740783
+Reconstruction Loss: 28297.943
+ 
+Batch: {19}/{127} | Time: 2024-10-20 02:59:53.683969
+Reconstruction Loss: 22667.545
+ 
+Batch: {20}/{127} | Time: 2024-10-20 03:00:26.542567
+Reconstruction Loss: 8085.1357
+ 
+Batch: {21}/{127} | Time: 2024-10-20 03:00:49.649210
+Reconstruction Loss: 18517.291
+ 
+Batch: {22}/{127} | Time: 2024-10-20 03:01:11.445365
+Reconstruction Loss: 20962.008
+ 
+Batch: {23}/{127} | Time: 2024-10-20 03:01:24.128748
+Reconstruction Loss: 24813.385
+ 
+Batch: {24}/{127} | Time: 2024-10-20 03:01:41.840743
+Reconstruction Loss: 17865.629
+ 
+Batch: {25}/{127} | Time: 2024-10-20 03:02:02.009076
+Reconstruction Loss: 17810.668
+ 
+Batch: {26}/{127} | Time: 2024-10-20 03:02:36.110263
+Reconstruction Loss: 14995.447
+ 
+Batch: {27}/{127} | Time: 2024-10-20 03:02:51.750876
+Reconstruction Loss: 25703.193
+ 
+Batch: {28}/{127} | Time: 2024-10-20 03:03:22.854252
+Reconstruction Loss: 15261.404
+ 
+Batch: {29}/{127} | Time: 2024-10-20 03:03:31.237528
+Reconstruction Loss: 26272.879
+ 
+Batch: {30}/{127} | Time: 2024-10-20 03:03:41.958770
+Reconstruction Loss: 22524.256
+ 
+Batch: {31}/{127} | Time: 2024-10-20 03:04:08.743539
+Reconstruction Loss: 12513.529
+ 
+Batch: {32}/{127} | Time: 2024-10-20 03:04:21.257177
+Reconstruction Loss: 28474.24
+ 
+Batch: {33}/{127} | Time: 2024-10-20 03:04:56.160787
+Reconstruction Loss: 21313.887
+ 
+Batch: {34}/{127} | Time: 2024-10-20 03:05:42.012770
+Reconstruction Loss: 10710.74
+ 
+Batch: {35}/{127} | Time: 2024-10-20 03:05:47.930270
+Reconstruction Loss: 26402.168
+ 
+Batch: {36}/{127} | Time: 2024-10-20 03:06:12.719041
+Reconstruction Loss: 16407.207
+ 
+Batch: {37}/{127} | Time: 2024-10-20 03:06:40.917649
+Reconstruction Loss: 13671.484
+ 
+Batch: {38}/{127} | Time: 2024-10-20 03:06:56.205385
+Reconstruction Loss: 20764.396
+ 
+Batch: {39}/{127} | Time: 2024-10-20 03:07:20.085557
+Reconstruction Loss: 17305.69
+ 
+Batch: {40}/{127} | Time: 2024-10-20 03:07:25.471049
+Reconstruction Loss: 25158.113
+ 
+Batch: {41}/{127} | Time: 2024-10-20 03:07:55.685982
+Reconstruction Loss: 20235.02
+ 
+Batch: {42}/{127} | Time: 2024-10-20 03:08:22.925682
+Reconstruction Loss: 16240.771
+ 
+Batch: {43}/{127} | Time: 2024-10-20 03:08:35.432422
+Reconstruction Loss: 28400.062
+ 
+Batch: {44}/{127} | Time: 2024-10-20 03:09:00.231597
+Reconstruction Loss: 11326.782
+ 
+Batch: {45}/{127} | Time: 2024-10-20 03:09:12.580994
+Reconstruction Loss: 18693.605
+ 
+Batch: {46}/{127} | Time: 2024-10-20 03:09:43.419357
+Reconstruction Loss: 21485.066
+ 
+Batch: {47}/{127} | Time: 2024-10-20 03:10:00.811364
+Reconstruction Loss: 18773.037
+ 
+Batch: {48}/{127} | Time: 2024-10-20 03:10:17.957258
+Reconstruction Loss: 29071.098
+ 
+Batch: {49}/{127} | Time: 2024-10-20 03:10:29.744708
+Reconstruction Loss: 22865.53
+ 
+Batch: {50}/{127} | Time: 2024-10-20 03:10:47.007507
+Reconstruction Loss: 16009.611
+ 
+Batch: {51}/{127} | Time: 2024-10-20 03:11:22.773185
+Reconstruction Loss: 11681.721
+ 
+Batch: {52}/{127} | Time: 2024-10-20 03:12:01.738773
+Reconstruction Loss: 15773.451
+ 
+Batch: {53}/{127} | Time: 2024-10-20 03:12:18.008459
+Reconstruction Loss: 19477.902
+ 
+Batch: {54}/{127} | Time: 2024-10-20 03:12:43.836491
+Reconstruction Loss: 29276.902
+ 
+Batch: {55}/{127} | Time: 2024-10-20 03:13:13.495283
+Reconstruction Loss: 22634.262
+ 
+Batch: {56}/{127} | Time: 2024-10-20 03:13:43.056552
+Reconstruction Loss: 11450.417
+ 
+Batch: {57}/{127} | Time: 2024-10-20 03:14:05.124677
+Reconstruction Loss: 16498.797
+ 
+Batch: {58}/{127} | Time: 2024-10-20 03:14:34.922675
+Reconstruction Loss: 13754.424
+ 
+Batch: {59}/{127} | Time: 2024-10-20 03:14:51.739384
+Reconstruction Loss: 13538.263
+ 
+Batch: {60}/{127} | Time: 2024-10-20 03:15:17.450921
+Reconstruction Loss: 27049.537
+ 
+Batch: {61}/{127} | Time: 2024-10-20 03:15:46.240478
+Reconstruction Loss: 15592.43
+ 
+Batch: {62}/{127} | Time: 2024-10-20 03:16:02.455936
+Reconstruction Loss: 18887.598
+ 
+Batch: {63}/{127} | Time: 2024-10-20 03:16:18.149132
+Reconstruction Loss: 17174.904
+ 
+Batch: {64}/{127} | Time: 2024-10-20 03:16:31.809157
+Reconstruction Loss: 20526.834
+ 
+Batch: {65}/{127} | Time: 2024-10-20 03:17:06.810054
+Reconstruction Loss: 11157.21
+ 
+Batch: {66}/{127} | Time: 2024-10-20 03:17:35.083887
+Reconstruction Loss: 21264.521
+ 
+Batch: {67}/{127} | Time: 2024-10-20 03:17:47.284548
+Reconstruction Loss: 25856.307
+ 
+Batch: {68}/{127} | Time: 2024-10-20 03:18:18.712297
+Reconstruction Loss: 14946.717
+ 
+Batch: {69}/{127} | Time: 2024-10-20 03:18:21.481278
+Reconstruction Loss: 32219.129
+ 
+Batch: {70}/{127} | Time: 2024-10-20 03:18:28.663900
+Reconstruction Loss: 26762.74
+ 
+Batch: {71}/{127} | Time: 2024-10-20 03:18:45.958265
+Reconstruction Loss: 18637.502
+ 
+Batch: {72}/{127} | Time: 2024-10-20 03:18:55.794900
+Reconstruction Loss: 27159.76
+ 
+Batch: {73}/{127} | Time: 2024-10-20 03:19:15.323455
+Reconstruction Loss: 27931.744
+ 
+Batch: {74}/{127} | Time: 2024-10-20 03:19:26.676271
+Reconstruction Loss: 21357.514
+ 
+Batch: {75}/{127} | Time: 2024-10-20 03:19:50.698259
+Reconstruction Loss: 14967.622
+ 
+Batch: {76}/{127} | Time: 2024-10-20 03:20:16.123039
+Reconstruction Loss: 26788.922
+ 
+Batch: {77}/{127} | Time: 2024-10-20 03:20:55.856261
+Reconstruction Loss: 5227.7275
+ 
+Batch: {78}/{127} | Time: 2024-10-20 03:21:29.633325
+Reconstruction Loss: 11770.756
+ 
+Batch: {79}/{127} | Time: 2024-10-20 03:21:52.126082
+Reconstruction Loss: 16379.925
+ 
+Batch: {80}/{127} | Time: 2024-10-20 03:22:17.428923
+Reconstruction Loss: 12820.074
+ 
+Batch: {81}/{127} | Time: 2024-10-20 03:22:58.436440
+Reconstruction Loss: 18635.973
+ 
+Batch: {82}/{127} | Time: 2024-10-20 03:23:14.633377
+Reconstruction Loss: 33356.152
+ 
+Batch: {83}/{127} | Time: 2024-10-20 03:23:35.402361
+Reconstruction Loss: 18512.887
+ 
+Batch: {84}/{127} | Time: 2024-10-20 03:24:02.402465
+Reconstruction Loss: 15014.584
+ 
+Batch: {85}/{127} | Time: 2024-10-20 03:24:13.898665
+Reconstruction Loss: 21832.812
+ 
+Batch: {86}/{127} | Time: 2024-10-20 03:24:32.368898
+Reconstruction Loss: 18185.002
+ 
+Batch: {87}/{127} | Time: 2024-10-20 03:24:54.723551
+Reconstruction Loss: 22204.873
+ 
+Batch: {88}/{127} | Time: 2024-10-20 03:25:26.770685
+Reconstruction Loss: 8830.468
+ 
+Batch: {89}/{127} | Time: 2024-10-20 03:25:52.064594
+Reconstruction Loss: 15681.992
+ 
+Batch: {90}/{127} | Time: 2024-10-20 03:26:14.826174
+Reconstruction Loss: 24608.441
+ 
+Batch: {91}/{127} | Time: 2024-10-20 03:26:37.768816
+Reconstruction Loss: 26837.434
+ 
+Batch: {92}/{127} | Time: 2024-10-20 03:27:01.663652
+Reconstruction Loss: 22587.135
+ 
+Batch: {93}/{127} | Time: 2024-10-20 03:27:35.193686
+Reconstruction Loss: 13995.193
+ 
+Batch: {94}/{127} | Time: 2024-10-20 03:27:46.695035
+Reconstruction Loss: 29645.879
+ 
+Batch: {95}/{127} | Time: 2024-10-20 03:28:02.508756
+Reconstruction Loss: 23106.158
+ 
+Batch: {96}/{127} | Time: 2024-10-20 03:28:27.922274
+Reconstruction Loss: 15122.578
+ 
+Batch: {97}/{127} | Time: 2024-10-20 03:28:49.567768
+Reconstruction Loss: 17679.291
+ 
+Batch: {98}/{127} | Time: 2024-10-20 03:29:32.439319
+Reconstruction Loss: 17780.72
+ 
+Batch: {99}/{127} | Time: 2024-10-20 03:29:44.831952
+Reconstruction Loss: 27682.574
+ 
+Batch: {100}/{127} | Time: 2024-10-20 03:30:01.137507
+Reconstruction Loss: 20834.553
+ 
+Batch: {101}/{127} | Time: 2024-10-20 03:30:28.673522
+Reconstruction Loss: 15697.182
+ 
+Batch: {102}/{127} | Time: 2024-10-20 03:30:48.315768
+Reconstruction Loss: 26122.62
+ 
+Batch: {103}/{127} | Time: 2024-10-20 03:31:19.337176
+Reconstruction Loss: 16701.82
+ 
+Batch: {104}/{127} | Time: 2024-10-20 03:31:36.368706
+Reconstruction Loss: 16045.729
+ 
+Batch: {105}/{127} | Time: 2024-10-20 03:31:46.407438
+Reconstruction Loss: 18928.457
+ 
+Batch: {106}/{127} | Time: 2024-10-20 03:32:01.836529
+Reconstruction Loss: 23047.457
+ 
+Batch: {107}/{127} | Time: 2024-10-20 03:32:22.219571
+Reconstruction Loss: 16391.703
+ 
+Batch: {108}/{127} | Time: 2024-10-20 03:32:53.295563
+Reconstruction Loss: 14381.622
+ 
+Batch: {109}/{127} | Time: 2024-10-20 03:33:28.970665
+Reconstruction Loss: 14738.303
+ 
+Batch: {110}/{127} | Time: 2024-10-20 03:33:38.743039
+Reconstruction Loss: 18515.129
+ 
+Batch: {111}/{127} | Time: 2024-10-20 03:34:06.848341
+Reconstruction Loss: 14826.5
+ 
+Batch: {112}/{127} | Time: 2024-10-20 03:34:25.975360
+Reconstruction Loss: 17394.979
+ 
+Batch: {113}/{127} | Time: 2024-10-20 03:35:00.640969
+Reconstruction Loss: 13979.555
+ 
+Batch: {114}/{127} | Time: 2024-10-20 03:35:16.829986
+Reconstruction Loss: 13658.12
+ 
+Batch: {115}/{127} | Time: 2024-10-20 03:35:37.604238
+Reconstruction Loss: 12673.201
+ 
+Batch: {116}/{127} | Time: 2024-10-20 03:35:59.434858
+Reconstruction Loss: 13409.6875
+ 
+Batch: {117}/{127} | Time: 2024-10-20 03:36:25.021137
+Reconstruction Loss: 15769.9795
+ 
+Batch: {118}/{127} | Time: 2024-10-20 03:36:30.525739
+Reconstruction Loss: 18408.047
+ 
+Batch: {119}/{127} | Time: 2024-10-20 03:37:11.772155
+Reconstruction Loss: 18659.05
+ 
+Batch: {120}/{127} | Time: 2024-10-20 03:37:25.089897
+Reconstruction Loss: 22769.951
+ 
+Batch: {121}/{127} | Time: 2024-10-20 03:37:48.701281
+Reconstruction Loss: 12610.412
+ 
+Batch: {122}/{127} | Time: 2024-10-20 03:38:03.096131
+Reconstruction Loss: 13741.341
+ 
+Batch: {123}/{127} | Time: 2024-10-20 03:38:21.850359
+Reconstruction Loss: 15160.381
+ 
+Batch: {124}/{127} | Time: 2024-10-20 03:38:52.622390
+Reconstruction Loss: 23472.793
+ 
+Batch: {125}/{127} | Time: 2024-10-20 03:39:11.090485
+Reconstruction Loss: 19235.785
+ 
+Batch: {126}/{127} | Time: 2024-10-20 03:39:38.639988
+Reconstruction Loss: 9797.743
+ 
+Batch: {127}/{127} | Time: 2024-10-20 03:39:48.602547
+Reconstruction Loss: 23860.992
+ 
+Validation of Epoch 3: | Time: 2024-10-20 03:43:51.270884
+Reconstruction Loss: 21007.021
+ 
+Epoch: {4}/{10} | Time: 2024-10-20 03:43:51.519327
+============================================= 
+ 
+Batch: {1}/{127} | Time: 2024-10-20 03:44:16.242729
+Reconstruction Loss: 18081.24
+ 
+Batch: {2}/{127} | Time: 2024-10-20 03:44:30.039734
+Reconstruction Loss: 25621.723
+ 
+Batch: {3}/{127} | Time: 2024-10-20 03:44:43.776962
+Reconstruction Loss: 29304.244
+ 
+Batch: {4}/{127} | Time: 2024-10-20 03:44:58.622198
+Reconstruction Loss: 21583.252
+ 
+Batch: {5}/{127} | Time: 2024-10-20 03:45:17.957906
+Reconstruction Loss: 13340.862
+ 
+Batch: {6}/{127} | Time: 2024-10-20 03:45:52.534097
+Reconstruction Loss: 11889.514
+ 
+Batch: {7}/{127} | Time: 2024-10-20 03:46:04.498359
+Reconstruction Loss: 30989.922
+ 
+Batch: {8}/{127} | Time: 2024-10-20 03:46:17.059936
+Reconstruction Loss: 25751.27
+ 
+Batch: {9}/{127} | Time: 2024-10-20 03:46:43.502482
+Reconstruction Loss: 24353.3
+ 
+Batch: {10}/{127} | Time: 2024-10-20 03:46:55.939178
+Reconstruction Loss: 21173.527
+ 
+Batch: {11}/{127} | Time: 2024-10-20 03:47:46.706997
+Reconstruction Loss: 15893.276
+ 
+Batch: {12}/{127} | Time: 2024-10-20 03:48:11.467504
+Reconstruction Loss: 19948.51
+ 
+Batch: {13}/{127} | Time: 2024-10-20 03:48:30.798066
+Reconstruction Loss: 18142.979
+ 
+Batch: {14}/{127} | Time: 2024-10-20 03:48:50.013803
+Reconstruction Loss: 21849.482
+ 
+Batch: {15}/{127} | Time: 2024-10-20 03:49:02.627344
+Reconstruction Loss: 21475.95
+ 
+Batch: {16}/{127} | Time: 2024-10-20 03:49:17.918571
+Reconstruction Loss: 24440.197
+ 
+Batch: {17}/{127} | Time: 2024-10-20 03:49:44.126594
+Reconstruction Loss: 15305.658
+ 
+Batch: {18}/{127} | Time: 2024-10-20 03:49:52.716828
+Reconstruction Loss: 23206.209
+ 
+Batch: {19}/{127} | Time: 2024-10-20 03:50:05.263020
+Reconstruction Loss: 27481.104
+ 
+Batch: {20}/{127} | Time: 2024-10-20 03:50:31.777193
+Reconstruction Loss: 16846.459
+ 
+Batch: {21}/{127} | Time: 2024-10-20 03:51:12.142247
+Reconstruction Loss: 11868.342
+ 
+Batch: {22}/{127} | Time: 2024-10-20 03:51:25.615465
+Reconstruction Loss: 18732.863
+ 
+Batch: {23}/{127} | Time: 2024-10-20 03:51:48.336871
+Reconstruction Loss: 16230.76
+ 
+Batch: {24}/{127} | Time: 2024-10-20 03:52:18.403423
+Reconstruction Loss: 13353.167
+ 
+Batch: {25}/{127} | Time: 2024-10-20 03:52:35.528359
+Reconstruction Loss: 23883.299
+ 
+Batch: {26}/{127} | Time: 2024-10-20 03:52:55.065099
+Reconstruction Loss: 15280.0
+ 
+Batch: {27}/{127} | Time: 2024-10-20 03:53:05.025500
+Reconstruction Loss: 23533.918
+ 
+Batch: {28}/{127} | Time: 2024-10-20 03:53:15.854695
+Reconstruction Loss: 16700.152
+ 
+Batch: {29}/{127} | Time: 2024-10-20 03:53:25.811376
+Reconstruction Loss: 27016.697
+ 
+Batch: {30}/{127} | Time: 2024-10-20 03:53:41.942242
+Reconstruction Loss: 23307.844
+ 
+Batch: {31}/{127} | Time: 2024-10-20 03:54:25.785006
+Reconstruction Loss: 11066.439
+ 
+Batch: {32}/{127} | Time: 2024-10-20 03:54:44.487413
+Reconstruction Loss: 18843.379
+ 
+Batch: {33}/{127} | Time: 2024-10-20 03:55:07.078761
+Reconstruction Loss: 21688.469
+ 
+Batch: {34}/{127} | Time: 2024-10-20 03:55:24.486890
+Reconstruction Loss: 22486.158
+ 
+Batch: {35}/{127} | Time: 2024-10-20 03:55:54.260059
+Reconstruction Loss: 13668.82
+ 
+Batch: {36}/{127} | Time: 2024-10-20 03:56:07.177138
+Reconstruction Loss: 20772.195
+ 
+Batch: {37}/{127} | Time: 2024-10-20 03:56:26.727749
+Reconstruction Loss: 20179.068
+ 
+Batch: {38}/{127} | Time: 2024-10-20 03:57:03.866298
+Reconstruction Loss: 14744.678
+ 
+Batch: {39}/{127} | Time: 2024-10-20 03:57:22.324677
+Reconstruction Loss: 34871.727
+ 
+Batch: {40}/{127} | Time: 2024-10-20 03:57:41.709304
+Reconstruction Loss: 18716.309
+ 
+Batch: {41}/{127} | Time: 2024-10-20 03:57:55.310208
+Reconstruction Loss: 18732.885
+ 
+Batch: {42}/{127} | Time: 2024-10-20 03:58:14.734053
+Reconstruction Loss: 25400.637
+ 
+Batch: {43}/{127} | Time: 2024-10-20 03:58:24.496507
+Reconstruction Loss: 30299.896
+ 
+Batch: {44}/{127} | Time: 2024-10-20 03:58:32.657140
+Reconstruction Loss: 22177.297
+ 
+Batch: {45}/{127} | Time: 2024-10-20 03:58:55.036480
+Reconstruction Loss: 12123.986
+ 
+Batch: {46}/{127} | Time: 2024-10-20 03:59:00.469887
+Reconstruction Loss: 22489.346
+ 
+Batch: {47}/{127} | Time: 2024-10-20 03:59:23.502759
+Reconstruction Loss: 21769.902
+ 
+Batch: {48}/{127} | Time: 2024-10-20 03:59:43.816386
+Reconstruction Loss: 18159.225
+ 
+Batch: {49}/{127} | Time: 2024-10-20 04:00:16.107972
+Reconstruction Loss: 13475.842
+ 
+Batch: {50}/{127} | Time: 2024-10-20 04:00:47.759371
+Reconstruction Loss: 16191.933
+ 
+Batch: {51}/{127} | Time: 2024-10-20 04:01:05.100212
+Reconstruction Loss: 17329.557
+ 
+Batch: {52}/{127} | Time: 2024-10-20 04:01:41.704819
+Reconstruction Loss: 26469.162
+ 
+Batch: {53}/{127} | Time: 2024-10-20 04:01:50.095260
+Reconstruction Loss: 28208.506
+ 
+Batch: {54}/{127} | Time: 2024-10-20 04:02:08.022202
+Reconstruction Loss: 18116.176
+ 
+Batch: {55}/{127} | Time: 2024-10-20 04:02:28.285314
+Reconstruction Loss: 21409.49
+ 
+Batch: {56}/{127} | Time: 2024-10-20 04:02:49.229417
+Reconstruction Loss: 10807.303
+ 
+Batch: {57}/{127} | Time: 2024-10-20 04:03:04.461145
+Reconstruction Loss: 16332.776
+ 
+Batch: {58}/{127} | Time: 2024-10-20 04:03:22.676433
+Reconstruction Loss: 17935.8
+ 
+Batch: {59}/{127} | Time: 2024-10-20 04:03:38.741750
+Reconstruction Loss: 22684.764
+ 
+Batch: {60}/{127} | Time: 2024-10-20 04:04:03.869665
+Reconstruction Loss: 16449.342
+ 
+Batch: {61}/{127} | Time: 2024-10-20 04:04:30.982753
+Reconstruction Loss: 14155.893
+ 
+Batch: {62}/{127} | Time: 2024-10-20 04:04:47.162558
+Reconstruction Loss: 22361.285
+ 
+Batch: {63}/{127} | Time: 2024-10-20 04:05:08.055257
+Reconstruction Loss: 17064.38
+ 
+Batch: {64}/{127} | Time: 2024-10-20 04:05:24.213871
+Reconstruction Loss: 17809.285
+ 
+Batch: {65}/{127} | Time: 2024-10-20 04:05:48.270792
+Reconstruction Loss: 19247.01
+ 
+Batch: {66}/{127} | Time: 2024-10-20 04:06:15.524946
+Reconstruction Loss: 27761.89
+ 
+Batch: {67}/{127} | Time: 2024-10-20 04:06:33.894296
+Reconstruction Loss: 22123.994
+ 
+Batch: {68}/{127} | Time: 2024-10-20 04:07:09.192110
+Reconstruction Loss: 9879.998
+ 
+Batch: {69}/{127} | Time: 2024-10-20 04:07:49.804606
+Reconstruction Loss: 13414.792
+ 
+Batch: {70}/{127} | Time: 2024-10-20 04:07:55.642244
+Reconstruction Loss: 24851.227
+ 
+Batch: {71}/{127} | Time: 2024-10-20 04:08:28.939447
+Reconstruction Loss: 13514.898
+ 
+Batch: {72}/{127} | Time: 2024-10-20 04:08:52.121995
+Reconstruction Loss: 16682.629
+ 
+Batch: {73}/{127} | Time: 2024-10-20 04:09:12.371860
+Reconstruction Loss: 15090.584
+ 
+Batch: {74}/{127} | Time: 2024-10-20 04:09:44.743552
+Reconstruction Loss: 11702.322
+ 
+Batch: {75}/{127} | Time: 2024-10-20 04:10:10.538115
+Reconstruction Loss: 16317.62
+ 
+Batch: {76}/{127} | Time: 2024-10-20 04:10:24.566323
+Reconstruction Loss: 15800.928
+ 
+Batch: {77}/{127} | Time: 2024-10-20 04:11:15.433401
+Reconstruction Loss: 13564.448
+ 
+Batch: {78}/{127} | Time: 2024-10-20 04:11:42.795344
+Reconstruction Loss: 18918.438
+ 
+Batch: {79}/{127} | Time: 2024-10-20 04:11:55.092945
+Reconstruction Loss: 17896.934
+ 
+Batch: {80}/{127} | Time: 2024-10-20 04:12:07.795174
+Reconstruction Loss: 15834.872
+ 
+Batch: {81}/{127} | Time: 2024-10-20 04:12:23.374470
+Reconstruction Loss: 21612.01
+ 
+Batch: {82}/{127} | Time: 2024-10-20 04:12:34.567681
+Reconstruction Loss: 19597.582
+ 
+Batch: {83}/{127} | Time: 2024-10-20 04:12:59.832624
+Reconstruction Loss: 16341.297
+ 
+Batch: {84}/{127} | Time: 2024-10-20 04:13:46.016027
+Reconstruction Loss: 13017.256
+ 
+Batch: {85}/{127} | Time: 2024-10-20 04:14:18.594021
+Reconstruction Loss: 10670.445
+ 
+Batch: {86}/{127} | Time: 2024-10-20 04:14:40.915789
+Reconstruction Loss: 19418.543
+ 
+Batch: {87}/{127} | Time: 2024-10-20 04:14:57.657661
+Reconstruction Loss: 21765.973
+ 
+Batch: {88}/{127} | Time: 2024-10-20 04:15:17.571305
+Reconstruction Loss: 20015.148
+ 
+Batch: {89}/{127} | Time: 2024-10-20 04:15:53.177751
+Reconstruction Loss: 24120.994
+ 
+Batch: {90}/{127} | Time: 2024-10-20 04:16:34.107676
+Reconstruction Loss: 15508.076
+ 
+Batch: {91}/{127} | Time: 2024-10-20 04:17:11.302558
+Reconstruction Loss: 13897.32
+ 
+Batch: {92}/{127} | Time: 2024-10-20 04:17:30.476473
+Reconstruction Loss: 17524.947
+ 
+Batch: {93}/{127} | Time: 2024-10-20 04:17:49.083012
+Reconstruction Loss: 21658.164
+ 
+Batch: {94}/{127} | Time: 2024-10-20 04:18:09.042914
+Reconstruction Loss: 22619.102
+ 
+Batch: {95}/{127} | Time: 2024-10-20 04:18:38.843721
+Reconstruction Loss: 15311.984
+ 
+Batch: {96}/{127} | Time: 2024-10-20 04:18:53.739577
+Reconstruction Loss: 17242.88
+ 
+Batch: {97}/{127} | Time: 2024-10-20 04:19:08.279429
+Reconstruction Loss: 25548.357
+ 
+Batch: {98}/{127} | Time: 2024-10-20 04:19:34.742850
+Reconstruction Loss: 18876.86
+ 
+Batch: {99}/{127} | Time: 2024-10-20 04:19:49.867219
+Reconstruction Loss: 17244.695
+ 
+Batch: {100}/{127} | Time: 2024-10-20 04:20:18.399698
+Reconstruction Loss: 24874.725
+ 
+Batch: {101}/{127} | Time: 2024-10-20 04:20:25.671069
+Reconstruction Loss: 23135.855
+ 
+Batch: {102}/{127} | Time: 2024-10-20 04:20:55.484090
+Reconstruction Loss: 16926.121
+ 
+Batch: {103}/{127} | Time: 2024-10-20 04:21:18.912276
+Reconstruction Loss: 17676.695
+ 
+Batch: {104}/{127} | Time: 2024-10-20 04:21:46.025042
+Reconstruction Loss: 17249.48
+ 
+Batch: {105}/{127} | Time: 2024-10-20 04:22:09.743577
+Reconstruction Loss: 17871.918
+ 
+Batch: {106}/{127} | Time: 2024-10-20 04:22:26.310992
+Reconstruction Loss: 23705.818
+ 
+Batch: {107}/{127} | Time: 2024-10-20 04:22:51.421012
+Reconstruction Loss: 20612.81
+ 
+Batch: {108}/{127} | Time: 2024-10-20 04:22:54.058739
+Reconstruction Loss: 30442.95
+ 
+Batch: {109}/{127} | Time: 2024-10-20 04:23:28.053277
+Reconstruction Loss: 18087.984
+ 
+Batch: {110}/{127} | Time: 2024-10-20 04:23:56.802570
+Reconstruction Loss: 15304.311
+ 
+Batch: {111}/{127} | Time: 2024-10-20 04:24:22.030361
+Reconstruction Loss: 27325.307
+ 
+Batch: {112}/{127} | Time: 2024-10-20 04:24:40.128018
+Reconstruction Loss: 19534.307
+ 
+Batch: {113}/{127} | Time: 2024-10-20 04:24:57.914610
+Reconstruction Loss: 18006.418
+ 
+Batch: {114}/{127} | Time: 2024-10-20 04:25:18.052344
+Reconstruction Loss: 22384.957
+ 
+Batch: {115}/{127} | Time: 2024-10-20 04:25:36.808068
+Reconstruction Loss: 15155.166
+ 
+Batch: {116}/{127} | Time: 2024-10-20 04:26:23.279517
+Reconstruction Loss: 18233.832
+ 
+Batch: {117}/{127} | Time: 2024-10-20 04:26:52.685131
+Reconstruction Loss: 15965.391
+ 
+Batch: {118}/{127} | Time: 2024-10-20 04:27:02.797267
+Reconstruction Loss: 21388.348
+ 
+Batch: {119}/{127} | Time: 2024-10-20 04:27:20.309209
+Reconstruction Loss: 20486.133
+ 
+Batch: {120}/{127} | Time: 2024-10-20 04:27:35.530483
+Reconstruction Loss: 19348.809
+ 
+Batch: {121}/{127} | Time: 2024-10-20 04:27:48.088301
+Reconstruction Loss: 22409.982
+ 
+Batch: {122}/{127} | Time: 2024-10-20 04:28:07.134369
+Reconstruction Loss: 21041.49
+ 
+Batch: {123}/{127} | Time: 2024-10-20 04:28:28.251083
+Reconstruction Loss: 28477.74
+ 
+Batch: {124}/{127} | Time: 2024-10-20 04:28:48.515244
+Reconstruction Loss: 17551.707
+ 
+Batch: {125}/{127} | Time: 2024-10-20 04:29:01.368974
+Reconstruction Loss: 24066.64
+ 
+Batch: {126}/{127} | Time: 2024-10-20 04:29:30.461823
+Reconstruction Loss: 10706.787
+ 
+Batch: {127}/{127} | Time: 2024-10-20 04:29:42.937711
+Reconstruction Loss: 24689.629
+ 
+Validation of Epoch 4: | Time: 2024-10-20 04:35:37.011361
+Reconstruction Loss: 15590.567
+ 
+Epoch: {5}/{10} | Time: 2024-10-20 04:35:37.262532
+============================================= 
+ 
+Batch: {1}/{127} | Time: 2024-10-20 04:36:04.651171
+Reconstruction Loss: 15139.021
+ 
+Batch: {2}/{127} | Time: 2024-10-20 04:36:18.102619
+Reconstruction Loss: 22825.156
+ 
+Batch: {3}/{127} | Time: 2024-10-20 04:36:27.401460
+Reconstruction Loss: 29634.031
+ 
+Batch: {4}/{127} | Time: 2024-10-20 04:37:09.496990
+Reconstruction Loss: 17820.031
+ 
+Batch: {5}/{127} | Time: 2024-10-20 04:37:40.929518
+Reconstruction Loss: 11253.377
+ 
+Batch: {6}/{127} | Time: 2024-10-20 04:38:05.395496
+Reconstruction Loss: 25292.16
+ 
+Batch: {7}/{127} | Time: 2024-10-20 04:38:26.841894
+Reconstruction Loss: 30506.527
+ 
+Batch: {8}/{127} | Time: 2024-10-20 04:39:03.414389
+Reconstruction Loss: 14494.653
+ 
+Batch: {9}/{127} | Time: 2024-10-20 04:39:22.787565
+Reconstruction Loss: 27070.027
+ 
+Batch: {10}/{127} | Time: 2024-10-20 04:39:43.275455
+Reconstruction Loss: 17213.7
+ 
+Batch: {11}/{127} | Time: 2024-10-20 04:40:06.051004
+Reconstruction Loss: 13425.594
+ 
+Batch: {12}/{127} | Time: 2024-10-20 04:40:28.661724
+Reconstruction Loss: 9818.269
+ 
+Batch: {13}/{127} | Time: 2024-10-20 04:40:37.036263
+Reconstruction Loss: 28712.6
+ 
+Batch: {14}/{127} | Time: 2024-10-20 04:41:13.038855
+Reconstruction Loss: 16854.135
+ 
+Batch: {15}/{127} | Time: 2024-10-20 04:41:39.968752
+Reconstruction Loss: 16591.645
+ 
+Batch: {16}/{127} | Time: 2024-10-20 04:41:51.881716
+Reconstruction Loss: 22028.617
+ 
+Batch: {17}/{127} | Time: 2024-10-20 04:42:24.411102
+Reconstruction Loss: 17669.418
+ 
+Batch: {18}/{127} | Time: 2024-10-20 04:42:33.355259
+Reconstruction Loss: 23027.4
+ 
+Batch: {19}/{127} | Time: 2024-10-20 04:43:08.275046
+Reconstruction Loss: 11198.549
+ 
+Batch: {20}/{127} | Time: 2024-10-20 04:43:42.130007
+Reconstruction Loss: 16120.703
+ 
+Batch: {21}/{127} | Time: 2024-10-20 04:44:03.834452
+Reconstruction Loss: 17384.264
+ 
+Batch: {22}/{127} | Time: 2024-10-20 04:44:32.372309
+Reconstruction Loss: 14988.053
+ 
+Batch: {23}/{127} | Time: 2024-10-20 04:44:46.998246
+Reconstruction Loss: 24133.01
+ 
+Batch: {24}/{127} | Time: 2024-10-20 04:45:13.798635
+Reconstruction Loss: 18888.445
+ 
+Batch: {25}/{127} | Time: 2024-10-20 04:45:16.410325
+Reconstruction Loss: 27009.297
+ 
+Batch: {26}/{127} | Time: 2024-10-20 04:45:47.694815
+Reconstruction Loss: 19717.184
+ 
+Batch: {27}/{127} | Time: 2024-10-20 04:46:08.232840
+Reconstruction Loss: 14359.292
+ 
+Batch: {28}/{127} | Time: 2024-10-20 04:46:38.355735
+Reconstruction Loss: 20179.744
+ 
+Batch: {29}/{127} | Time: 2024-10-20 04:46:54.390058
+Reconstruction Loss: 17823.14
+ 
+Batch: {30}/{127} | Time: 2024-10-20 04:47:27.811729
+Reconstruction Loss: 12709.631
+ 
+Batch: {31}/{127} | Time: 2024-10-20 04:47:50.813116
+Reconstruction Loss: 13655.453
+ 
+Batch: {32}/{127} | Time: 2024-10-20 04:48:17.691732
+Reconstruction Loss: 16501.938
+ 
+Batch: {33}/{127} | Time: 2024-10-20 04:48:45.359068
+Reconstruction Loss: 18371.785
+ 
+Batch: {34}/{127} | Time: 2024-10-20 04:49:16.872806
+Reconstruction Loss: 22017.943
+ 
+Batch: {35}/{127} | Time: 2024-10-20 04:49:25.204077
+Reconstruction Loss: 17974.932
+ 
+Batch: {36}/{127} | Time: 2024-10-20 04:49:44.810743
+Reconstruction Loss: 15725.661
+ 
+Batch: {37}/{127} | Time: 2024-10-20 04:50:14.002097
+Reconstruction Loss: 13284.565
+ 
+Batch: {38}/{127} | Time: 2024-10-20 04:50:34.312635
+Reconstruction Loss: 24018.387
+ 
+Batch: {39}/{127} | Time: 2024-10-20 04:50:49.012382
+Reconstruction Loss: 14354.385
+ 
+Batch: {40}/{127} | Time: 2024-10-20 04:51:05.889147
+Reconstruction Loss: 20342.074
+ 
+Batch: {41}/{127} | Time: 2024-10-20 04:51:16.760681
+Reconstruction Loss: 16737.385
+ 
+Batch: {42}/{127} | Time: 2024-10-20 04:51:23.244109
+Reconstruction Loss: 25168.678
+ 
+Batch: {43}/{127} | Time: 2024-10-20 04:51:41.772350
+Reconstruction Loss: 24234.596
+ 
+Batch: {44}/{127} | Time: 2024-10-20 04:52:03.496092
+Reconstruction Loss: 23415.596
+ 
+Batch: {45}/{127} | Time: 2024-10-20 04:52:25.419884
+Reconstruction Loss: 12881.448
+ 
+Batch: {46}/{127} | Time: 2024-10-20 04:52:50.894004
+Reconstruction Loss: 18601.281
+ 
+Batch: {47}/{127} | Time: 2024-10-20 04:53:06.907331
+Reconstruction Loss: 13630.888
+ 
+Batch: {48}/{127} | Time: 2024-10-20 04:53:30.569585
+Reconstruction Loss: 22330.066
+ 
+Batch: {49}/{127} | Time: 2024-10-20 04:53:38.655417
+Reconstruction Loss: 24064.514
+ 
+Batch: {50}/{127} | Time: 2024-10-20 04:54:11.656075
+Reconstruction Loss: 6170.471
+ 
+Batch: {51}/{127} | Time: 2024-10-20 04:54:40.866042
+Reconstruction Loss: 22735.262
+ 
+Batch: {52}/{127} | Time: 2024-10-20 04:55:10.213756
+Reconstruction Loss: 8233.894
+ 
+Batch: {53}/{127} | Time: 2024-10-20 04:55:35.639614
+Reconstruction Loss: 12912.902
+ 
+Batch: {54}/{127} | Time: 2024-10-20 04:56:07.997076
+Reconstruction Loss: 12418.572
+ 
+Batch: {55}/{127} | Time: 2024-10-20 04:56:23.428211
+Reconstruction Loss: 18740.498
+ 
+Batch: {56}/{127} | Time: 2024-10-20 04:56:47.123841
+Reconstruction Loss: 19220.916
+ 
+Batch: {57}/{127} | Time: 2024-10-20 04:57:11.097421
+Reconstruction Loss: 13450.729
+ 
+Batch: {58}/{127} | Time: 2024-10-20 04:57:23.283889
+Reconstruction Loss: 14793.516
+ 
+Batch: {59}/{127} | Time: 2024-10-20 04:58:11.543835
+Reconstruction Loss: 14311.148
+ 
+Batch: {60}/{127} | Time: 2024-10-20 04:58:45.115797
+Reconstruction Loss: 15416.531
+ 
+Batch: {61}/{127} | Time: 2024-10-20 04:59:14.623691
+Reconstruction Loss: 18820.385
+ 
+Batch: {62}/{127} | Time: 2024-10-20 04:59:52.394271
+Reconstruction Loss: 9598.833
+ 
+Batch: {63}/{127} | Time: 2024-10-20 05:00:15.621062
+Reconstruction Loss: 25957.12
+ 
+Batch: {64}/{127} | Time: 2024-10-20 05:00:36.178030
+Reconstruction Loss: 18297.465
+ 
+Batch: {65}/{127} | Time: 2024-10-20 05:00:44.702792
+Reconstruction Loss: 19856.16
+ 
+Batch: {66}/{127} | Time: 2024-10-20 05:01:09.116817
+Reconstruction Loss: 12982.477
+ 
+Batch: {67}/{127} | Time: 2024-10-20 05:01:39.384496
+Reconstruction Loss: 14386.206
+ 
+Batch: {68}/{127} | Time: 2024-10-20 05:01:57.378722
+Reconstruction Loss: 20378.0
+ 
+Batch: {69}/{127} | Time: 2024-10-20 05:02:12.696307
+Reconstruction Loss: 18879.877
+ 
+Batch: {70}/{127} | Time: 2024-10-20 05:02:54.485744
+Reconstruction Loss: 14665.264
+ 
+Batch: {71}/{127} | Time: 2024-10-20 05:03:16.103427
+Reconstruction Loss: 16604.543
+ 
+Batch: {72}/{127} | Time: 2024-10-20 05:03:31.473791
+Reconstruction Loss: 19216.607
+ 
+Batch: {73}/{127} | Time: 2024-10-20 05:03:55.844495
+Reconstruction Loss: 12358.078
+ 
+Batch: {74}/{127} | Time: 2024-10-20 05:04:23.486073
+Reconstruction Loss: 19543.479
+ 
+Batch: {75}/{127} | Time: 2024-10-20 05:04:42.241637
+Reconstruction Loss: 16550.793
+ 
+Batch: {76}/{127} | Time: 2024-10-20 05:04:47.608625
+Reconstruction Loss: 19358.277
+ 
+Batch: {77}/{127} | Time: 2024-10-20 05:05:22.111725
+Reconstruction Loss: 21793.816
+ 
+Batch: {78}/{127} | Time: 2024-10-20 05:05:27.646630
+Reconstruction Loss: 24782.832
+ 
+Batch: {79}/{127} | Time: 2024-10-20 05:05:41.470441
+Reconstruction Loss: 19745.732
+ 
+Batch: {80}/{127} | Time: 2024-10-20 05:05:46.972074
+Reconstruction Loss: 26755.588
+ 
+Batch: {81}/{127} | Time: 2024-10-20 05:06:06.489679
+Reconstruction Loss: 21088.31
+ 
+Batch: {82}/{127} | Time: 2024-10-20 05:06:40.979299
+Reconstruction Loss: 7543.5874
+ 
+Batch: {83}/{127} | Time: 2024-10-20 05:06:46.619804
+Reconstruction Loss: 24296.502
+ 
+Batch: {84}/{127} | Time: 2024-10-20 05:07:12.761508
+Reconstruction Loss: 19474.984
+ 
+Batch: {85}/{127} | Time: 2024-10-20 05:07:53.501716
+Reconstruction Loss: 9692.979
+ 
+Batch: {86}/{127} | Time: 2024-10-20 05:07:58.998912
+Reconstruction Loss: 25622.346
+ 
+Batch: {87}/{127} | Time: 2024-10-20 05:08:04.336142
+Reconstruction Loss: 21646.88
+ 
+Batch: {88}/{127} | Time: 2024-10-20 05:08:13.863757
+Reconstruction Loss: 28517.303
+ 
+Batch: {89}/{127} | Time: 2024-10-20 05:08:38.422444
+Reconstruction Loss: 21867.543
+ 
+Batch: {90}/{127} | Time: 2024-10-20 05:08:54.759483
+Reconstruction Loss: 22158.092
+ 
+Batch: {91}/{127} | Time: 2024-10-20 05:09:08.636924
+Reconstruction Loss: 18167.443
+ 
+Batch: {92}/{127} | Time: 2024-10-20 05:09:29.265615
+Reconstruction Loss: 30057.434
+ 
+Batch: {93}/{127} | Time: 2024-10-20 05:09:48.237613
+Reconstruction Loss: 16926.357
+ 
+Batch: {94}/{127} | Time: 2024-10-20 05:10:18.404671
+Reconstruction Loss: 14714.177
+ 
+Batch: {95}/{127} | Time: 2024-10-20 05:10:37.754163
+Reconstruction Loss: 21054.29
+ 
+Batch: {96}/{127} | Time: 2024-10-20 05:10:56.320114
+Reconstruction Loss: 24429.271
+ 
+Batch: {97}/{127} | Time: 2024-10-20 05:11:24.462941
+Reconstruction Loss: 18508.336
+ 
+Batch: {98}/{127} | Time: 2024-10-20 05:11:47.064935
+Reconstruction Loss: 17222.379
+ 
+Batch: {99}/{127} | Time: 2024-10-20 05:11:56.356720
+Reconstruction Loss: 25392.855
+ 
+Batch: {100}/{127} | Time: 2024-10-20 05:12:23.921551
+Reconstruction Loss: 15068.389
+ 
+Batch: {101}/{127} | Time: 2024-10-20 05:12:42.701611
+Reconstruction Loss: 17471.49
+ 
+Batch: {102}/{127} | Time: 2024-10-20 05:12:55.849139
+Reconstruction Loss: 21994.943
+ 
+Batch: {103}/{127} | Time: 2024-10-20 05:13:07.125532
+Reconstruction Loss: 22291.512
+ 
+Batch: {104}/{127} | Time: 2024-10-20 05:13:18.677770
+Reconstruction Loss: 32231.693
+ 
+Batch: {105}/{127} | Time: 2024-10-20 05:13:34.734544
+Reconstruction Loss: 24508.309
+ 
+Batch: {106}/{127} | Time: 2024-10-20 05:13:53.221312
+Reconstruction Loss: 24711.652
+ 
+Batch: {107}/{127} | Time: 2024-10-20 05:14:16.800542
+Reconstruction Loss: 16162.427
+ 
+Batch: {108}/{127} | Time: 2024-10-20 05:14:45.746282
+Reconstruction Loss: 20311.953
+ 
+Batch: {109}/{127} | Time: 2024-10-20 05:15:17.516964
+Reconstruction Loss: 21311.084
+ 
+Batch: {110}/{127} | Time: 2024-10-20 05:15:40.083358
+Reconstruction Loss: 13900.794
+ 
+Batch: {111}/{127} | Time: 2024-10-20 05:15:59.193750
+Reconstruction Loss: 18202.572
+ 
+Batch: {112}/{127} | Time: 2024-10-20 05:16:28.484827
+Reconstruction Loss: 19942.031
+ 
+Batch: {113}/{127} | Time: 2024-10-20 05:16:44.179146
+Reconstruction Loss: 19767.033
+ 
+Batch: {114}/{127} | Time: 2024-10-20 05:17:02.918606
+Reconstruction Loss: 19828.838
+ 
+Batch: {115}/{127} | Time: 2024-10-20 05:17:33.941903
+Reconstruction Loss: 16135.023
+ 
+Batch: {116}/{127} | Time: 2024-10-20 05:17:45.940292
+Reconstruction Loss: 25644.482
+ 
+Batch: {117}/{127} | Time: 2024-10-20 05:17:59.257506
+Reconstruction Loss: 14927.436
+ 
+Batch: {118}/{127} | Time: 2024-10-20 05:18:12.356828
+Reconstruction Loss: 27196.168
+ 
+Batch: {119}/{127} | Time: 2024-10-20 05:18:28.017367
+Reconstruction Loss: 17623.535
+ 
+Batch: {120}/{127} | Time: 2024-10-20 05:18:44.041420
+Reconstruction Loss: 17629.525
+ 
+Batch: {121}/{127} | Time: 2024-10-20 05:19:01.920103
+Reconstruction Loss: 20701.668
+ 
+Batch: {122}/{127} | Time: 2024-10-20 05:19:21.068813
+Reconstruction Loss: 14276.174
+ 
+Batch: {123}/{127} | Time: 2024-10-20 05:19:45.138346
+Reconstruction Loss: 18456.145
+ 
+Batch: {124}/{127} | Time: 2024-10-20 05:19:54.912744
+Reconstruction Loss: 22651.516
+ 
+Batch: {125}/{127} | Time: 2024-10-20 05:20:26.423642
+Reconstruction Loss: 16225.875
+ 
+Batch: {126}/{127} | Time: 2024-10-20 05:20:44.087138
+Reconstruction Loss: 12325.753
+ 
+Batch: {127}/{127} | Time: 2024-10-20 05:21:15.494133
+Reconstruction Loss: 9657.13
+ 
+Validation of Epoch 5: | Time: 2024-10-20 05:26:28.340161
+Reconstruction Loss: 17521.635
+ 
+Epoch: {6}/{10} | Time: 2024-10-20 05:26:28.584157
+============================================= 
+ 
+Batch: {1}/{127} | Time: 2024-10-20 05:26:57.636253
+Reconstruction Loss: 9624.463
+ 
+Batch: {2}/{127} | Time: 2024-10-20 05:27:26.739263
+Reconstruction Loss: 8599.389
+ 
+Batch: {3}/{127} | Time: 2024-10-20 05:27:42.733745
+Reconstruction Loss: 19132.885
+ 
+Batch: {4}/{127} | Time: 2024-10-20 05:28:10.705057
+Reconstruction Loss: 15054.326
+ 
+Batch: {5}/{127} | Time: 2024-10-20 05:28:35.989520
+Reconstruction Loss: 19471.543
+ 
+Batch: {6}/{127} | Time: 2024-10-20 05:28:58.572645
+Reconstruction Loss: 13626.544
+ 
+Batch: {7}/{127} | Time: 2024-10-20 05:29:39.093658
+Reconstruction Loss: 9641.78
+ 
+Batch: {8}/{127} | Time: 2024-10-20 05:30:05.579544
+Reconstruction Loss: 11211.889
+ 
+Batch: {9}/{127} | Time: 2024-10-20 05:30:27.877154
+Reconstruction Loss: 12742.2295
+ 
+Batch: {10}/{127} | Time: 2024-10-20 05:30:54.673391
+Reconstruction Loss: 17072.26
+ 
+Batch: {11}/{127} | Time: 2024-10-20 05:30:57.268135
+Reconstruction Loss: 27686.488
+ 
+Batch: {12}/{127} | Time: 2024-10-20 05:31:16.855611
+Reconstruction Loss: 18030.11
+ 
+Batch: {13}/{127} | Time: 2024-10-20 05:31:36.612314
+Reconstruction Loss: 24858.629
+ 
+Batch: {14}/{127} | Time: 2024-10-20 05:31:51.210400
+Reconstruction Loss: 20032.074
+ 
+Batch: {15}/{127} | Time: 2024-10-20 05:32:24.062092
+Reconstruction Loss: 9039.147
+ 
+Batch: {16}/{127} | Time: 2024-10-20 05:32:36.163105
+Reconstruction Loss: 19682.215
+ 
+Batch: {17}/{127} | Time: 2024-10-20 05:32:52.540377
+Reconstruction Loss: 33023.4
+ 
+Batch: {18}/{127} | Time: 2024-10-20 05:33:12.628981
+Reconstruction Loss: 34099.95
+ 
+Batch: {19}/{127} | Time: 2024-10-20 05:33:41.003384
+Reconstruction Loss: 12479.111
+ 
+Batch: {20}/{127} | Time: 2024-10-20 05:34:13.823130
+Reconstruction Loss: 15628.237
+ 
+Batch: {21}/{127} | Time: 2024-10-20 05:34:47.837735
+Reconstruction Loss: 17252.256
+ 
+Batch: {22}/{127} | Time: 2024-10-20 05:35:01.823965
+Reconstruction Loss: 23796.05
+ 
+Batch: {23}/{127} | Time: 2024-10-20 05:35:14.183587
+Reconstruction Loss: 24140.363
+ 
+Batch: {24}/{127} | Time: 2024-10-20 05:35:28.009573
+Reconstruction Loss: 29204.988
+ 
+Batch: {25}/{127} | Time: 2024-10-20 05:35:41.271342
+Reconstruction Loss: 20664.902
+ 
+Batch: {26}/{127} | Time: 2024-10-20 05:36:07.808536
+Reconstruction Loss: 17350.303
+ 
+Batch: {27}/{127} | Time: 2024-10-20 05:36:27.318334
+Reconstruction Loss: 24632.87
+ 
+Batch: {28}/{127} | Time: 2024-10-20 05:36:52.627263
+Reconstruction Loss: 24802.525
+ 
+Batch: {29}/{127} | Time: 2024-10-20 05:37:05.604220
+Reconstruction Loss: 23216.947
+ 
+Batch: {30}/{127} | Time: 2024-10-20 05:37:44.964992
+Reconstruction Loss: 9746.288
+ 
+Batch: {31}/{127} | Time: 2024-10-20 05:38:11.935738
+Reconstruction Loss: 12859.965
+ 
+Batch: {32}/{127} | Time: 2024-10-20 05:38:37.303765
+Reconstruction Loss: 14711.769
+ 
+Batch: {33}/{127} | Time: 2024-10-20 05:39:17.482670
+Reconstruction Loss: 11193.6
+ 
+Batch: {34}/{127} | Time: 2024-10-20 05:39:52.862499
+Reconstruction Loss: 7412.4756
+ 
+Batch: {35}/{127} | Time: 2024-10-20 05:40:16.673900
+Reconstruction Loss: 21388.06
+ 
+Batch: {36}/{127} | Time: 2024-10-20 05:40:51.763513
+Reconstruction Loss: 13939.877
+ 
+Batch: {37}/{127} | Time: 2024-10-20 05:41:13.658168
+Reconstruction Loss: 21035.197
+ 
+Batch: {38}/{127} | Time: 2024-10-20 05:41:33.726102
+Reconstruction Loss: 23438.656
+ 
+Batch: {39}/{127} | Time: 2024-10-20 05:41:49.114972
+Reconstruction Loss: 18353.025
+ 
+Batch: {40}/{127} | Time: 2024-10-20 05:42:12.730186
+Reconstruction Loss: 18077.094
+ 
+Batch: {41}/{127} | Time: 2024-10-20 05:42:38.329592
+Reconstruction Loss: 15565.208
+ 
+Batch: {42}/{127} | Time: 2024-10-20 05:42:48.810032
+Reconstruction Loss: 26861.447
+ 
+Batch: {43}/{127} | Time: 2024-10-20 05:43:17.946990
+Reconstruction Loss: 9758.105
+ 
+Batch: {44}/{127} | Time: 2024-10-20 05:43:39.938374
+Reconstruction Loss: 18845.285
+ 
+Batch: {45}/{127} | Time: 2024-10-20 05:43:56.827893
+Reconstruction Loss: 21029.832
+ 
+Batch: {46}/{127} | Time: 2024-10-20 05:44:07.831499
+Reconstruction Loss: 20068.682
+ 
+Batch: {47}/{127} | Time: 2024-10-20 05:44:40.074895
+Reconstruction Loss: 9575.467
+ 
+Batch: {48}/{127} | Time: 2024-10-20 05:44:54.336150
+Reconstruction Loss: 20072.818
+ 
+Batch: {49}/{127} | Time: 2024-10-20 05:45:08.762276
+Reconstruction Loss: 21841.285
+ 
+Batch: {50}/{127} | Time: 2024-10-20 05:45:18.919211
+Reconstruction Loss: 21234.105
+ 
+Batch: {51}/{127} | Time: 2024-10-20 05:45:38.710849
+Reconstruction Loss: 11193.603
+ 
+Batch: {52}/{127} | Time: 2024-10-20 05:45:54.664857
+Reconstruction Loss: 14669.889
+ 
+Batch: {53}/{127} | Time: 2024-10-20 05:46:20.122524
+Reconstruction Loss: 14044.229
+ 
+Batch: {54}/{127} | Time: 2024-10-20 05:47:01.524445
+Reconstruction Loss: 5318.9756
+ 
+Batch: {55}/{127} | Time: 2024-10-20 05:47:24.304003
+Reconstruction Loss: 19285.926
+ 
+Batch: {56}/{127} | Time: 2024-10-20 05:47:48.941090
+Reconstruction Loss: 21766.05
+ 
+Batch: {57}/{127} | Time: 2024-10-20 05:48:16.746100
+Reconstruction Loss: 15281.393
+ 
+Batch: {58}/{127} | Time: 2024-10-20 05:48:28.005240
+Reconstruction Loss: 21308.354
+ 
+Batch: {59}/{127} | Time: 2024-10-20 05:49:06.060700
+Reconstruction Loss: 9075.511
+ 
+Batch: {60}/{127} | Time: 2024-10-20 05:49:29.248677
+Reconstruction Loss: 19967.107
+ 
+Batch: {61}/{127} | Time: 2024-10-20 05:49:40.230854
+Reconstruction Loss: 19289.871
+ 
+Batch: {62}/{127} | Time: 2024-10-20 05:50:11.267703
+Reconstruction Loss: 12585.614
+ 
+Batch: {63}/{127} | Time: 2024-10-20 05:50:36.884142
+Reconstruction Loss: 12927.724
+ 
+Batch: {64}/{127} | Time: 2024-10-20 05:50:46.293413
+Reconstruction Loss: 26282.531
+ 
+Batch: {65}/{127} | Time: 2024-10-20 05:50:55.106384
+Reconstruction Loss: 21370.215
+ 
+Batch: {66}/{127} | Time: 2024-10-20 05:51:17.351381
+Reconstruction Loss: 19086.775
+ 
+Batch: {67}/{127} | Time: 2024-10-20 05:51:22.840100
+Reconstruction Loss: 26143.785
+ 
+Batch: {68}/{127} | Time: 2024-10-20 05:51:42.422288
+Reconstruction Loss: 29548.943
+ 
+Batch: {69}/{127} | Time: 2024-10-20 05:52:12.627547
+Reconstruction Loss: 12643.697
+ 
+Batch: {70}/{127} | Time: 2024-10-20 05:52:28.897318
+Reconstruction Loss: 18290.582
+ 
+Batch: {71}/{127} | Time: 2024-10-20 05:52:44.716293
+Reconstruction Loss: 22893.682
+ 
+Batch: {72}/{127} | Time: 2024-10-20 05:53:00.715539
+Reconstruction Loss: 23345.803
+ 
+Batch: {73}/{127} | Time: 2024-10-20 05:53:19.362297
+Reconstruction Loss: 22865.438
+ 
+Batch: {74}/{127} | Time: 2024-10-20 05:53:37.261939
+Reconstruction Loss: 15794.153
+ 
+Batch: {75}/{127} | Time: 2024-10-20 05:53:43.520569
+Reconstruction Loss: 19916.33
+ 
+Batch: {76}/{127} | Time: 2024-10-20 05:54:20.267540
+Reconstruction Loss: 14135.761
+ 
+Batch: {77}/{127} | Time: 2024-10-20 05:54:29.957751
+Reconstruction Loss: 33134.363
+ 
+Batch: {78}/{127} | Time: 2024-10-20 05:54:47.306215
+Reconstruction Loss: 20503.502
+ 
+Batch: {79}/{127} | Time: 2024-10-20 05:55:05.611308
+Reconstruction Loss: 17291.59
+ 
+Batch: {80}/{127} | Time: 2024-10-20 05:55:34.261332
+Reconstruction Loss: 12384.263
+ 
+Batch: {81}/{127} | Time: 2024-10-20 05:55:55.824441
+Reconstruction Loss: 24716.062
+ 
+Batch: {82}/{127} | Time: 2024-10-20 05:56:26.699025
+Reconstruction Loss: 15356.092
+ 
+Batch: {83}/{127} | Time: 2024-10-20 05:56:51.557951
+Reconstruction Loss: 19701.494
+ 
+Batch: {84}/{127} | Time: 2024-10-20 05:57:09.507345
+Reconstruction Loss: 16197.275
+ 
+Batch: {85}/{127} | Time: 2024-10-20 05:57:42.912860
+Reconstruction Loss: 7618.802
+ 
+Batch: {86}/{127} | Time: 2024-10-20 05:58:11.134160
+Reconstruction Loss: 20952.05
+ 
+Batch: {87}/{127} | Time: 2024-10-20 05:58:22.371136
+Reconstruction Loss: 16875.145
+ 
+Batch: {88}/{127} | Time: 2024-10-20 05:59:06.943382
+Reconstruction Loss: 15833.783
+ 
+Batch: {89}/{127} | Time: 2024-10-20 05:59:37.631322
+Reconstruction Loss: 12371.842
+ 
+Batch: {90}/{127} | Time: 2024-10-20 05:59:49.184831
+Reconstruction Loss: 24776.7
+ 
+Batch: {91}/{127} | Time: 2024-10-20 06:00:11.475216
+Reconstruction Loss: 16092.8955
+ 
+Batch: {92}/{127} | Time: 2024-10-20 06:00:52.412462
+Reconstruction Loss: 13266.922
+ 
+Batch: {93}/{127} | Time: 2024-10-20 06:01:17.218663
+Reconstruction Loss: 19090.96
+ 
+Batch: {94}/{127} | Time: 2024-10-20 06:01:29.287837
+Reconstruction Loss: 20740.953
+ 
+Batch: {95}/{127} | Time: 2024-10-20 06:01:38.739353
+Reconstruction Loss: 28036.457
+ 
+Batch: {96}/{127} | Time: 2024-10-20 06:01:52.396262
+Reconstruction Loss: 20642.121
+ 
+Batch: {97}/{127} | Time: 2024-10-20 06:02:20.105183
+Reconstruction Loss: 12976.023
+ 
+Batch: {98}/{127} | Time: 2024-10-20 06:02:42.592822
+Reconstruction Loss: 23400.41
+ 
+Batch: {99}/{127} | Time: 2024-10-20 06:02:54.224144
+Reconstruction Loss: 21354.605
+ 
+Batch: {100}/{127} | Time: 2024-10-20 06:03:40.841335
+Reconstruction Loss: 14466.086
+ 
+Batch: {101}/{127} | Time: 2024-10-20 06:03:53.618999
+Reconstruction Loss: 22984.012
+ 
+Batch: {102}/{127} | Time: 2024-10-20 06:04:06.564201
+Reconstruction Loss: 25372.137
+ 
+Batch: {103}/{127} | Time: 2024-10-20 06:04:15.416886
+Reconstruction Loss: 25330.572
+ 
+Batch: {104}/{127} | Time: 2024-10-20 06:04:40.727448
+Reconstruction Loss: 17810.465
+ 
+Batch: {105}/{127} | Time: 2024-10-20 06:05:06.993300
+Reconstruction Loss: 23203.684
+ 
+Batch: {106}/{127} | Time: 2024-10-20 06:05:15.493413
+Reconstruction Loss: 16186.568
+ 
+Batch: {107}/{127} | Time: 2024-10-20 06:05:22.516007
+Reconstruction Loss: 34621.51
+ 
+Batch: {108}/{127} | Time: 2024-10-20 06:05:39.739294
+Reconstruction Loss: 28978.125
+ 
+Batch: {109}/{127} | Time: 2024-10-20 06:05:59.470453
+Reconstruction Loss: 18927.887
+ 
+Batch: {110}/{127} | Time: 2024-10-20 06:06:15.124087
+Reconstruction Loss: 18719.111
+ 
+Batch: {111}/{127} | Time: 2024-10-20 06:06:51.366602
+Reconstruction Loss: 25372.438
+ 
+Batch: {112}/{127} | Time: 2024-10-20 06:07:22.140368
+Reconstruction Loss: 12929.485
+ 
+Batch: {113}/{127} | Time: 2024-10-20 06:07:40.227308
+Reconstruction Loss: 18536.598
+ 
+Batch: {114}/{127} | Time: 2024-10-20 06:08:07.041942
+Reconstruction Loss: 17172.6
+ 
+Batch: {115}/{127} | Time: 2024-10-20 06:08:35.571586
+Reconstruction Loss: 15391.656
+ 
+Batch: {116}/{127} | Time: 2024-10-20 06:08:41.049729
+Reconstruction Loss: 23339.04
+ 
+Batch: {117}/{127} | Time: 2024-10-20 06:08:53.551250
+Reconstruction Loss: 19510.527
+ 
+Batch: {118}/{127} | Time: 2024-10-20 06:09:26.962906
+Reconstruction Loss: 17233.578
+ 
+Batch: {119}/{127} | Time: 2024-10-20 06:09:58.928103
+Reconstruction Loss: 11391.49
+ 
+Batch: {120}/{127} | Time: 2024-10-20 06:10:11.827140
+Reconstruction Loss: 21817.895
+ 
+Batch: {121}/{127} | Time: 2024-10-20 06:10:41.632977
+Reconstruction Loss: 18674.871
+ 
+Batch: {122}/{127} | Time: 2024-10-20 06:11:01.098838
+Reconstruction Loss: 21022.438
+ 
+Batch: {123}/{127} | Time: 2024-10-20 06:11:12.935973
+Reconstruction Loss: 27061.125
+ 
+Batch: {124}/{127} | Time: 2024-10-20 06:11:29.657567
+Reconstruction Loss: 12940.98
+ 
+Batch: {125}/{127} | Time: 2024-10-20 06:12:01.588405
+Reconstruction Loss: 13172.917
+ 
+Batch: {126}/{127} | Time: 2024-10-20 06:12:41.593491
+Reconstruction Loss: 7704.7393
+ 
+Batch: {127}/{127} | Time: 2024-10-20 06:12:56.732472
+Reconstruction Loss: 12024.742
+ 
+Validation of Epoch 6: | Time: 2024-10-20 06:18:32.336891
+Reconstruction Loss: 17543.512
+ 
+Epoch: {7}/{10} | Time: 2024-10-20 06:18:32.580626
+============================================= 
+ 
+Batch: {1}/{127} | Time: 2024-10-20 06:18:55.119601
+Reconstruction Loss: 23375.496
+ 
+Batch: {2}/{127} | Time: 2024-10-20 06:19:10.324859
+Reconstruction Loss: 21056.012
+ 
+Batch: {3}/{127} | Time: 2024-10-20 06:19:26.046703
+Reconstruction Loss: 14358.486
+ 
+Batch: {4}/{127} | Time: 2024-10-20 06:19:34.389931
+Reconstruction Loss: 18513.605
+ 
+Batch: {5}/{127} | Time: 2024-10-20 06:19:49.401872
+Reconstruction Loss: 21841.592
+ 
+Batch: {6}/{127} | Time: 2024-10-20 06:20:15.312050
+Reconstruction Loss: 22751.93
+ 
+Batch: {7}/{127} | Time: 2024-10-20 06:20:27.703369
+Reconstruction Loss: 22575.365
+ 
+Batch: {8}/{127} | Time: 2024-10-20 06:20:48.137836
+Reconstruction Loss: 21069.564
+ 
+Batch: {9}/{127} | Time: 2024-10-20 06:21:08.953952
+Reconstruction Loss: 19526.607
+ 
+Batch: {10}/{127} | Time: 2024-10-20 06:21:29.242699
+Reconstruction Loss: 25016.812
+ 
+Batch: {11}/{127} | Time: 2024-10-20 06:21:35.963665
+Reconstruction Loss: 28161.479
+ 
+Batch: {12}/{127} | Time: 2024-10-20 06:22:04.134767
+Reconstruction Loss: 10105.886
+ 
+Batch: {13}/{127} | Time: 2024-10-20 06:22:23.531892
+Reconstruction Loss: 24304.027
+ 
+Batch: {14}/{127} | Time: 2024-10-20 06:23:07.956326
+Reconstruction Loss: 18664.266
+ 
+Batch: {15}/{127} | Time: 2024-10-20 06:23:26.495417
+Reconstruction Loss: 22271.55
+ 
+Batch: {16}/{127} | Time: 2024-10-20 06:23:57.842694
+Reconstruction Loss: 9712.885
+ 
+Batch: {17}/{127} | Time: 2024-10-20 06:24:12.919561
+Reconstruction Loss: 14326.156
+ 
+Batch: {18}/{127} | Time: 2024-10-20 06:24:29.786225
+Reconstruction Loss: 24220.693
+ 
+Batch: {19}/{127} | Time: 2024-10-20 06:24:41.413856
+Reconstruction Loss: 17753.018
+ 
+Batch: {20}/{127} | Time: 2024-10-20 06:24:57.693353
+Reconstruction Loss: 15081.018
+ 
+Batch: {21}/{127} | Time: 2024-10-20 06:25:09.570492
+Reconstruction Loss: 16901.95
+ 
+Batch: {22}/{127} | Time: 2024-10-20 06:25:29.020258
+Reconstruction Loss: 20238.734
+ 
+Batch: {23}/{127} | Time: 2024-10-20 06:25:52.150174
+Reconstruction Loss: 12229.993
+ 
+Batch: {24}/{127} | Time: 2024-10-20 06:26:08.706971
+Reconstruction Loss: 21049.828
+ 
+Batch: {25}/{127} | Time: 2024-10-20 06:26:23.250012
+Reconstruction Loss: 19933.219
+ 
+Batch: {26}/{127} | Time: 2024-10-20 06:26:42.971267
+Reconstruction Loss: 15043.497
+ 
+Batch: {27}/{127} | Time: 2024-10-20 06:27:21.569937
+Reconstruction Loss: 13413.581
+ 
+Batch: {28}/{127} | Time: 2024-10-20 06:27:49.511949
+Reconstruction Loss: 24815.09
+ 
+Batch: {29}/{127} | Time: 2024-10-20 06:27:59.015344
+Reconstruction Loss: 23899.48
+ 
+Batch: {30}/{127} | Time: 2024-10-20 06:28:11.136744
+Reconstruction Loss: 27533.713
+ 
+Batch: {31}/{127} | Time: 2024-10-20 06:28:26.880610
+Reconstruction Loss: 16558.318
+ 
+Batch: {32}/{127} | Time: 2024-10-20 06:29:08.417907
+Reconstruction Loss: 15456.347
+ 
+Batch: {33}/{127} | Time: 2024-10-20 06:29:31.583774
+Reconstruction Loss: 17500.965
+ 
+Batch: {34}/{127} | Time: 2024-10-20 06:30:06.805653
+Reconstruction Loss: 16684.875
+ 
+Batch: {35}/{127} | Time: 2024-10-20 06:30:12.163209
+Reconstruction Loss: 22195.275
+ 
+Batch: {36}/{127} | Time: 2024-10-20 06:30:36.815278
+Reconstruction Loss: 8699.943
+ 
+Batch: {37}/{127} | Time: 2024-10-20 06:30:58.446413
+Reconstruction Loss: 14706.489
+ 
+Batch: {38}/{127} | Time: 2024-10-20 06:31:31.349380
+Reconstruction Loss: 10017.58
+ 
+Batch: {39}/{127} | Time: 2024-10-20 06:31:33.976016
+Reconstruction Loss: 27790.156
+ 
+Batch: {40}/{127} | Time: 2024-10-20 06:31:49.879159
+Reconstruction Loss: 21413.223
+ 
+Batch: {41}/{127} | Time: 2024-10-20 06:32:04.163652
+Reconstruction Loss: 16301.533
+ 
+Batch: {42}/{127} | Time: 2024-10-20 06:32:27.913861
+Reconstruction Loss: 17013.846
+ 
+Batch: {43}/{127} | Time: 2024-10-20 06:32:58.512499
+Reconstruction Loss: 19238.564
+ 
+Batch: {44}/{127} | Time: 2024-10-20 06:33:24.637045
+Reconstruction Loss: 14068.216
+ 
+Batch: {45}/{127} | Time: 2024-10-20 06:33:48.339860
+Reconstruction Loss: 16118.119
+ 
+Batch: {46}/{127} | Time: 2024-10-20 06:34:03.579048
+Reconstruction Loss: 22588.4
+ 
+Batch: {47}/{127} | Time: 2024-10-20 06:34:16.505497
+Reconstruction Loss: 17975.742
+ 
+Batch: {48}/{127} | Time: 2024-10-20 06:34:34.413830
+Reconstruction Loss: 15075.107
+ 
+Batch: {49}/{127} | Time: 2024-10-20 06:34:48.237288
+Reconstruction Loss: 19562.94
+ 
+Batch: {50}/{127} | Time: 2024-10-20 06:35:06.649206
+Reconstruction Loss: 21403.852
+ 
+Batch: {51}/{127} | Time: 2024-10-20 06:35:12.072643
+Reconstruction Loss: 27172.797
+ 
+Batch: {52}/{127} | Time: 2024-10-20 06:35:35.847751
+Reconstruction Loss: 15794.721
+ 
+Batch: {53}/{127} | Time: 2024-10-20 06:36:00.877971
+Reconstruction Loss: 15772.033
+ 
+Batch: {54}/{127} | Time: 2024-10-20 06:36:13.384763
+Reconstruction Loss: 19195.988
+ 
+Batch: {55}/{127} | Time: 2024-10-20 06:36:22.972869
+Reconstruction Loss: 21526.02
+ 
+Batch: {56}/{127} | Time: 2024-10-20 06:36:40.790984
+Reconstruction Loss: 18830.822
+ 
+Batch: {57}/{127} | Time: 2024-10-20 06:36:58.676632
+Reconstruction Loss: 15824.092
+ 
+Batch: {58}/{127} | Time: 2024-10-20 06:37:14.096717
+Reconstruction Loss: 16562.168
+ 
+Batch: {59}/{127} | Time: 2024-10-20 06:37:37.887670
+Reconstruction Loss: 14939.141
+ 
+Batch: {60}/{127} | Time: 2024-10-20 06:38:15.660682
+Reconstruction Loss: 9038.891
+ 
+Batch: {61}/{127} | Time: 2024-10-20 06:38:35.477373
+Reconstruction Loss: 19121.05
+ 
+Batch: {62}/{127} | Time: 2024-10-20 06:39:11.412430
+Reconstruction Loss: 16966.465
+ 
+Batch: {63}/{127} | Time: 2024-10-20 06:39:42.529487
+Reconstruction Loss: 12720.293
+ 
+Batch: {64}/{127} | Time: 2024-10-20 06:39:56.383555
+Reconstruction Loss: 29808.568
+ 
+Batch: {65}/{127} | Time: 2024-10-20 06:40:18.511416
+Reconstruction Loss: 20986.479
+ 
+Batch: {66}/{127} | Time: 2024-10-20 06:40:38.124544
+Reconstruction Loss: 21614.355
+ 
+Batch: {67}/{127} | Time: 2024-10-20 06:41:14.694811
+Reconstruction Loss: 14120.76
+ 
+Batch: {68}/{127} | Time: 2024-10-20 06:41:23.106320
+Reconstruction Loss: 26620.463
+ 
+Batch: {69}/{127} | Time: 2024-10-20 06:41:50.696412
+Reconstruction Loss: 19976.252
+ 
+Batch: {70}/{127} | Time: 2024-10-20 06:42:23.896521
+Reconstruction Loss: 14415.862
+ 
+Batch: {71}/{127} | Time: 2024-10-20 06:42:40.878871
+Reconstruction Loss: 18832.775
+ 
+Batch: {72}/{127} | Time: 2024-10-20 06:43:04.513492
+Reconstruction Loss: 13292.658
+ 
+Batch: {73}/{127} | Time: 2024-10-20 06:43:21.333865
+Reconstruction Loss: 16358.255
+ 
+Batch: {74}/{127} | Time: 2024-10-20 06:43:48.495799
+Reconstruction Loss: 9041.466
+ 
+Batch: {75}/{127} | Time: 2024-10-20 06:44:00.854591
+Reconstruction Loss: 23868.334
+ 
+Batch: {76}/{127} | Time: 2024-10-20 06:44:10.241699
+Reconstruction Loss: 20344.592
+ 
+Batch: {77}/{127} | Time: 2024-10-20 06:44:23.209229
+Reconstruction Loss: 22482.963
+ 
+Batch: {78}/{127} | Time: 2024-10-20 06:44:47.910569
+Reconstruction Loss: 14254.933
+ 
+Batch: {79}/{127} | Time: 2024-10-20 06:45:19.023995
+Reconstruction Loss: 7448.8813
+ 
+Batch: {80}/{127} | Time: 2024-10-20 06:45:32.168074
+Reconstruction Loss: 17608.232
+ 
+Batch: {81}/{127} | Time: 2024-10-20 06:45:52.369468
+Reconstruction Loss: 18248.273
+ 
+Batch: {82}/{127} | Time: 2024-10-20 06:46:16.163972
+Reconstruction Loss: 19030.543
+ 
+Batch: {83}/{127} | Time: 2024-10-20 06:46:44.857510
+Reconstruction Loss: 15812.409
+ 
+Batch: {84}/{127} | Time: 2024-10-20 06:47:07.958410
+Reconstruction Loss: 23811.582
+ 
+Batch: {85}/{127} | Time: 2024-10-20 06:47:16.965411
+Reconstruction Loss: 24832.496
+ 
+Batch: {86}/{127} | Time: 2024-10-20 06:47:26.519974
+Reconstruction Loss: 18615.387
+ 
+Batch: {87}/{127} | Time: 2024-10-20 06:47:43.644725
+Reconstruction Loss: 19992.68
+ 
+Batch: {88}/{127} | Time: 2024-10-20 06:48:13.514817
+Reconstruction Loss: 13203.528
+ 
+Batch: {89}/{127} | Time: 2024-10-20 06:48:29.536353
+Reconstruction Loss: 21040.633
+ 
+Batch: {90}/{127} | Time: 2024-10-20 06:49:03.318599
+Reconstruction Loss: 17561.066
+ 
+Batch: {91}/{127} | Time: 2024-10-20 06:49:15.593801
+Reconstruction Loss: 22556.918
+ 
+Batch: {92}/{127} | Time: 2024-10-20 06:49:24.754657
+Reconstruction Loss: 19230.625
+ 
+Batch: {93}/{127} | Time: 2024-10-20 06:49:39.617234
+Reconstruction Loss: 16617.635
+ 
+Batch: {94}/{127} | Time: 2024-10-20 06:50:11.433718
+Reconstruction Loss: 8416.512
+ 
+Batch: {95}/{127} | Time: 2024-10-20 06:50:28.785134
+Reconstruction Loss: 16975.7
+ 
+Batch: {96}/{127} | Time: 2024-10-20 06:50:59.189597
+Reconstruction Loss: 11541.459
+ 
+Batch: {97}/{127} | Time: 2024-10-20 06:51:35.269199
+Reconstruction Loss: 19358.666
+ 
+Batch: {98}/{127} | Time: 2024-10-20 06:51:43.988278
+Reconstruction Loss: 22952.05
+ 
+Batch: {99}/{127} | Time: 2024-10-20 06:52:15.614669
+Reconstruction Loss: 23896.025
+ 
+Batch: {100}/{127} | Time: 2024-10-20 06:52:50.792058
+Reconstruction Loss: 14787.797
+ 
+Batch: {101}/{127} | Time: 2024-10-20 06:53:02.800423
+Reconstruction Loss: 22793.94
+ 
+Batch: {102}/{127} | Time: 2024-10-20 06:53:39.031597
+Reconstruction Loss: 13833.271
+ 
+Batch: {103}/{127} | Time: 2024-10-20 06:53:54.555947
+Reconstruction Loss: 20343.053
+ 
+Batch: {104}/{127} | Time: 2024-10-20 06:54:10.010622
+Reconstruction Loss: 18772.355
+ 
+Batch: {105}/{127} | Time: 2024-10-20 06:54:22.406951
+Reconstruction Loss: 24571.3
+ 
+Batch: {106}/{127} | Time: 2024-10-20 06:54:58.597663
+Reconstruction Loss: 8617.5205
+ 
+Batch: {107}/{127} | Time: 2024-10-20 06:55:28.797508
+Reconstruction Loss: 16133.545
+ 
+Batch: {108}/{127} | Time: 2024-10-20 06:55:51.431329
+Reconstruction Loss: 21066.668
+ 
+Batch: {109}/{127} | Time: 2024-10-20 06:56:05.996523
+Reconstruction Loss: 18607.383
+ 
+Batch: {110}/{127} | Time: 2024-10-20 06:56:25.119102
+Reconstruction Loss: 19299.486
+ 
+Batch: {111}/{127} | Time: 2024-10-20 06:56:46.800956
+Reconstruction Loss: 23420.357
+ 
+Batch: {112}/{127} | Time: 2024-10-20 06:56:56.848526
+Reconstruction Loss: 25233.879
+ 
+Batch: {113}/{127} | Time: 2024-10-20 06:57:12.478765
+Reconstruction Loss: 24986.805
+ 
+Batch: {114}/{127} | Time: 2024-10-20 06:57:35.515218
+Reconstruction Loss: 16896.637
+ 
+Batch: {115}/{127} | Time: 2024-10-20 06:57:59.105009
+Reconstruction Loss: 13379.625
+ 
+Batch: {116}/{127} | Time: 2024-10-20 06:58:37.170895
+Reconstruction Loss: 13795.091
+ 
+Batch: {117}/{127} | Time: 2024-10-20 06:58:51.228833
+Reconstruction Loss: 29993.86
+ 
+Batch: {118}/{127} | Time: 2024-10-20 06:59:07.204520
+Reconstruction Loss: 19492.832
+ 
+Batch: {119}/{127} | Time: 2024-10-20 06:59:19.585981
+Reconstruction Loss: 26912.098
+ 
+Batch: {120}/{127} | Time: 2024-10-20 06:59:31.626071
+Reconstruction Loss: 18245.338
+ 
+Batch: {121}/{127} | Time: 2024-10-20 06:59:50.103538
+Reconstruction Loss: 15955.256
+ 
+Batch: {122}/{127} | Time: 2024-10-20 07:00:08.472211
+Reconstruction Loss: 19417.54
+ 
+Batch: {123}/{127} | Time: 2024-10-20 07:00:50.861250
+Reconstruction Loss: 10989.688
+ 
+Batch: {124}/{127} | Time: 2024-10-20 07:01:04.794714
+Reconstruction Loss: 24406.377
+ 
+Batch: {125}/{127} | Time: 2024-10-20 07:01:30.447716
+Reconstruction Loss: 13627.834
+ 
+Batch: {126}/{127} | Time: 2024-10-20 07:02:01.280898
+Reconstruction Loss: 18294.096
+ 
+Batch: {127}/{127} | Time: 2024-10-20 07:02:20.644159
+Reconstruction Loss: 11722.771
+ 
+Validation of Epoch 7: | Time: 2024-10-20 07:06:35.786748
+Reconstruction Loss: 18070.412
+ 
+Epoch: {8}/{10} | Time: 2024-10-20 07:06:36.037472
+============================================= 
+ 
+Batch: {1}/{127} | Time: 2024-10-20 07:06:55.386894
+Reconstruction Loss: 21110.043
+ 
+Batch: {2}/{127} | Time: 2024-10-20 07:07:14.953951
+Reconstruction Loss: 20385.281
+ 
+Batch: {3}/{127} | Time: 2024-10-20 07:07:34.087450
+Reconstruction Loss: 24062.69
+ 
+Batch: {4}/{127} | Time: 2024-10-20 07:07:46.353309
+Reconstruction Loss: 19984.791
+ 
+Batch: {5}/{127} | Time: 2024-10-20 07:08:33.926383
+Reconstruction Loss: 16034.287
+ 
+Batch: {6}/{127} | Time: 2024-10-20 07:08:48.740011
+Reconstruction Loss: 24738.389
+ 
+Batch: {7}/{127} | Time: 2024-10-20 07:08:54.315846
+Reconstruction Loss: 19071.947
+ 
+Batch: {8}/{127} | Time: 2024-10-20 07:09:14.304854
+Reconstruction Loss: 18034.953
+ 
+Batch: {9}/{127} | Time: 2024-10-20 07:09:33.204945
+Reconstruction Loss: 21797.172
+ 
+Batch: {10}/{127} | Time: 2024-10-20 07:09:44.976971
+Reconstruction Loss: 17580.574
+ 
+Batch: {11}/{127} | Time: 2024-10-20 07:09:50.351104
+Reconstruction Loss: 25278.527
+ 
+Batch: {12}/{127} | Time: 2024-10-20 07:10:05.892951
+Reconstruction Loss: 24114.05
+ 
+Batch: {13}/{127} | Time: 2024-10-20 07:10:36.073354
+Reconstruction Loss: 18222.158
+ 
+Batch: {14}/{127} | Time: 2024-10-20 07:11:11.445901
+Reconstruction Loss: 12622.326
+ 
+Batch: {15}/{127} | Time: 2024-10-20 07:11:50.065935
+Reconstruction Loss: 12709.343
+ 
+Batch: {16}/{127} | Time: 2024-10-20 07:12:21.904374
+Reconstruction Loss: 12428.124
+ 
+Batch: {17}/{127} | Time: 2024-10-20 07:12:38.870861
+Reconstruction Loss: 13452.135
+ 
+Batch: {18}/{127} | Time: 2024-10-20 07:13:04.295635
+Reconstruction Loss: 12480.523
+ 
+Batch: {19}/{127} | Time: 2024-10-20 07:13:34.272381
+Reconstruction Loss: 13418.425
+ 
+Batch: {20}/{127} | Time: 2024-10-20 07:13:45.510837
+Reconstruction Loss: 15925.685
+ 
+Batch: {21}/{127} | Time: 2024-10-20 07:14:20.323378
+Reconstruction Loss: 12819.479
+ 
+Batch: {22}/{127} | Time: 2024-10-20 07:14:54.445167
+Reconstruction Loss: 17077.094
+ 
+Batch: {23}/{127} | Time: 2024-10-20 07:15:14.362214
+Reconstruction Loss: 19135.727
+ 
+Batch: {24}/{127} | Time: 2024-10-20 07:15:39.648369
+Reconstruction Loss: 18069.92
+ 
+Batch: {25}/{127} | Time: 2024-10-20 07:15:45.643413
+Reconstruction Loss: 28911.86
+ 
+Batch: {26}/{127} | Time: 2024-10-20 07:16:20.333941
+Reconstruction Loss: 27127.066
+ 
+Batch: {27}/{127} | Time: 2024-10-20 07:16:45.802701
+Reconstruction Loss: 14681.453
+ 
+Batch: {28}/{127} | Time: 2024-10-20 07:17:02.707558
+Reconstruction Loss: 21933.412
+ 
+Batch: {29}/{127} | Time: 2024-10-20 07:17:29.339617
+Reconstruction Loss: 15398.917
+ 
+Batch: {30}/{127} | Time: 2024-10-20 07:17:52.256361
+Reconstruction Loss: 20353.826
+ 
+Batch: {31}/{127} | Time: 2024-10-20 07:18:13.289285
+Reconstruction Loss: 24866.861
+ 
+Batch: {32}/{127} | Time: 2024-10-20 07:18:18.929729
+Reconstruction Loss: 25427.488
+ 
+Batch: {33}/{127} | Time: 2024-10-20 07:18:38.035266
+Reconstruction Loss: 15064.2
+ 
+Batch: {34}/{127} | Time: 2024-10-20 07:18:50.978119
+Reconstruction Loss: 21223.594
+ 
+Batch: {35}/{127} | Time: 2024-10-20 07:19:10.458876
+Reconstruction Loss: 22065.27
+ 
+Batch: {36}/{127} | Time: 2024-10-20 07:19:48.901580
+Reconstruction Loss: 9791.943
+ 
+Batch: {37}/{127} | Time: 2024-10-20 07:20:07.446597
+Reconstruction Loss: 22897.652
+ 
+Batch: {38}/{127} | Time: 2024-10-20 07:20:15.656052
+Reconstruction Loss: 24572.963
+ 
+Batch: {39}/{127} | Time: 2024-10-20 07:20:30.281768
+Reconstruction Loss: 13648.748
+ 
+Batch: {40}/{127} | Time: 2024-10-20 07:20:35.663043
+Reconstruction Loss: 20675.156
+ 
+Batch: {41}/{127} | Time: 2024-10-20 07:20:51.886742
+Reconstruction Loss: 25488.824
+ 
+Batch: {42}/{127} | Time: 2024-10-20 07:21:31.184227
+Reconstruction Loss: 14482.008
+ 
+Batch: {43}/{127} | Time: 2024-10-20 07:22:10.524345
+Reconstruction Loss: 8004.3555
+ 
+Batch: {44}/{127} | Time: 2024-10-20 07:22:36.464047
+Reconstruction Loss: 20271.525
+ 
+Batch: {45}/{127} | Time: 2024-10-20 07:23:06.714438
+Reconstruction Loss: 18405.395
+ 
+Batch: {46}/{127} | Time: 2024-10-20 07:23:23.828382
+Reconstruction Loss: 16979.682
+ 
+Batch: {47}/{127} | Time: 2024-10-20 07:23:46.769797
+Reconstruction Loss: 14326.701
+ 
+Batch: {48}/{127} | Time: 2024-10-20 07:24:09.199625
+Reconstruction Loss: 11307.786
+ 
+Batch: {49}/{127} | Time: 2024-10-20 07:24:17.799765
+Reconstruction Loss: 18118.215
+ 
+Batch: {50}/{127} | Time: 2024-10-20 07:24:44.065470
+Reconstruction Loss: 12870.198
+ 
+Batch: {51}/{127} | Time: 2024-10-20 07:25:05.628218
+Reconstruction Loss: 18084.848
+ 
+Batch: {52}/{127} | Time: 2024-10-20 07:25:20.397359
+Reconstruction Loss: 16467.043
+ 
+Batch: {53}/{127} | Time: 2024-10-20 07:25:58.959612
+Reconstruction Loss: 14679.724
+ 
+Batch: {54}/{127} | Time: 2024-10-20 07:26:32.309283
+Reconstruction Loss: 17690.725
+ 
+Batch: {55}/{127} | Time: 2024-10-20 07:26:51.324921
+Reconstruction Loss: 13448.799
+ 
+Batch: {56}/{127} | Time: 2024-10-20 07:27:03.623688
+Reconstruction Loss: 23370.469
+ 
+Batch: {57}/{127} | Time: 2024-10-20 07:27:30.152770
+Reconstruction Loss: 20232.654
+ 
+Batch: {58}/{127} | Time: 2024-10-20 07:27:48.766830
+Reconstruction Loss: 20465.902
+ 
+Batch: {59}/{127} | Time: 2024-10-20 07:28:35.077602
+Reconstruction Loss: 15786.8955
+ 
+Batch: {60}/{127} | Time: 2024-10-20 07:29:00.027159
+Reconstruction Loss: 21179.95
+ 
+Batch: {61}/{127} | Time: 2024-10-20 07:29:14.173671
+Reconstruction Loss: 12863.015
+ 
+Batch: {62}/{127} | Time: 2024-10-20 07:29:22.500759
+Reconstruction Loss: 16981.271
+ 
+Batch: {63}/{127} | Time: 2024-10-20 07:29:51.916314
+Reconstruction Loss: 16791.979
+ 
+Batch: {64}/{127} | Time: 2024-10-20 07:30:00.135081
+Reconstruction Loss: 20328.355
+ 
+Batch: {65}/{127} | Time: 2024-10-20 07:30:18.870989
+Reconstruction Loss: 15457.547
+ 
+Batch: {66}/{127} | Time: 2024-10-20 07:30:34.611209
+Reconstruction Loss: 15063.153
+ 
+Batch: {67}/{127} | Time: 2024-10-20 07:30:50.148802
+Reconstruction Loss: 14811.701
+ 
+Batch: {68}/{127} | Time: 2024-10-20 07:31:05.815364
+Reconstruction Loss: 18232.703
+ 
+Batch: {69}/{127} | Time: 2024-10-20 07:31:17.399702
+Reconstruction Loss: 19760.863
+ 
+Batch: {70}/{127} | Time: 2024-10-20 07:31:52.005440
+Reconstruction Loss: 9863.258
+ 
+Batch: {71}/{127} | Time: 2024-10-20 07:32:06.178658
+Reconstruction Loss: 26602.895
+ 
+Batch: {72}/{127} | Time: 2024-10-20 07:32:27.105275
+Reconstruction Loss: 14570.099
+ 
+Batch: {73}/{127} | Time: 2024-10-20 07:33:05.487352
+Reconstruction Loss: 15031.24
+ 
+Batch: {74}/{127} | Time: 2024-10-20 07:33:44.158375
+Reconstruction Loss: 14070.607
+ 
+Batch: {75}/{127} | Time: 2024-10-20 07:34:08.479451
+Reconstruction Loss: 22702.238
+ 
+Batch: {76}/{127} | Time: 2024-10-20 07:34:20.062471
+Reconstruction Loss: 17818.004
+ 
+Batch: {77}/{127} | Time: 2024-10-20 07:34:37.548161
+Reconstruction Loss: 13023.648
+ 
+Batch: {78}/{127} | Time: 2024-10-20 07:34:59.383106
+Reconstruction Loss: 17111.299
+ 
+Batch: {79}/{127} | Time: 2024-10-20 07:35:05.301006
+Reconstruction Loss: 21402.645
+ 
+Batch: {80}/{127} | Time: 2024-10-20 07:35:14.715919
+Reconstruction Loss: 21571.559
+ 
+Batch: {81}/{127} | Time: 2024-10-20 07:35:33.830352
+Reconstruction Loss: 13745.153
+ 
+Batch: {82}/{127} | Time: 2024-10-20 07:36:19.408004
+Reconstruction Loss: 9660.297
+ 
+Batch: {83}/{127} | Time: 2024-10-20 07:36:45.976851
+Reconstruction Loss: 18338.863
+ 
+Batch: {84}/{127} | Time: 2024-10-20 07:37:11.403364
+Reconstruction Loss: 23797.496
+ 
+Batch: {85}/{127} | Time: 2024-10-20 07:37:19.524862
+Reconstruction Loss: 18552.453
+ 
+Batch: {86}/{127} | Time: 2024-10-20 07:37:28.988563
+Reconstruction Loss: 26769.8
+ 
+Batch: {87}/{127} | Time: 2024-10-20 07:37:45.630837
+Reconstruction Loss: 11745.513
+ 
+Batch: {88}/{127} | Time: 2024-10-20 07:38:11.875583
+Reconstruction Loss: 12369.945
+ 
+Batch: {89}/{127} | Time: 2024-10-20 07:38:46.309192
+Reconstruction Loss: 21504.203
+ 
+Batch: {90}/{127} | Time: 2024-10-20 07:38:59.726547
+Reconstruction Loss: 23509.916
+ 
+Batch: {91}/{127} | Time: 2024-10-20 07:39:21.670411
+Reconstruction Loss: 16503.943
+ 
+Batch: {92}/{127} | Time: 2024-10-20 07:39:45.913050
+Reconstruction Loss: 21832.354
+ 
+Batch: {93}/{127} | Time: 2024-10-20 07:39:59.901515
+Reconstruction Loss: 25915.176
+ 
+Batch: {94}/{127} | Time: 2024-10-20 07:40:24.153715
+Reconstruction Loss: 11734.756
+ 
+Batch: {95}/{127} | Time: 2024-10-20 07:40:43.369506
+Reconstruction Loss: 14657.2705
+ 
+Batch: {96}/{127} | Time: 2024-10-20 07:41:18.778936
+Reconstruction Loss: 13845.357
+ 
+Batch: {97}/{127} | Time: 2024-10-20 07:41:25.723868
+Reconstruction Loss: 24472.12
+ 
+Batch: {98}/{127} | Time: 2024-10-20 07:41:46.159279
+Reconstruction Loss: 27801.406
+ 
+Batch: {99}/{127} | Time: 2024-10-20 07:41:57.511939
+Reconstruction Loss: 16085.557
+ 
+Batch: {100}/{127} | Time: 2024-10-20 07:42:18.682690
+Reconstruction Loss: 12854.571
+ 
+Batch: {101}/{127} | Time: 2024-10-20 07:43:04.907810
+Reconstruction Loss: 14126.273
+ 
+Batch: {102}/{127} | Time: 2024-10-20 07:43:17.353369
+Reconstruction Loss: 16135.394
+ 
+Batch: {103}/{127} | Time: 2024-10-20 07:43:38.402427
+Reconstruction Loss: 17926.043
+ 
+Batch: {104}/{127} | Time: 2024-10-20 07:43:49.908954
+Reconstruction Loss: 22134.998
+ 
+Batch: {105}/{127} | Time: 2024-10-20 07:44:08.065330
+Reconstruction Loss: 27329.031
+ 
+Batch: {106}/{127} | Time: 2024-10-20 07:44:29.142888
+Reconstruction Loss: 10044.105
+ 
+Batch: {107}/{127} | Time: 2024-10-20 07:44:51.596469
+Reconstruction Loss: 19707.498
+ 
+Batch: {108}/{127} | Time: 2024-10-20 07:45:14.230748
+Reconstruction Loss: 24344.963
+ 
+Batch: {109}/{127} | Time: 2024-10-20 07:45:39.701137
+Reconstruction Loss: 14268.4795
+ 
+Batch: {110}/{127} | Time: 2024-10-20 07:46:02.839317
+Reconstruction Loss: 12322.391
+ 
+Batch: {111}/{127} | Time: 2024-10-20 07:46:39.413980
+Reconstruction Loss: 15237.3
+ 
+Batch: {112}/{127} | Time: 2024-10-20 07:46:52.263036
+Reconstruction Loss: 20076.441
+ 
+Batch: {113}/{127} | Time: 2024-10-20 07:47:04.673176
+Reconstruction Loss: 22403.902
+ 
+Batch: {114}/{127} | Time: 2024-10-20 07:47:29.112904
+Reconstruction Loss: 15532.01
+ 
+Batch: {115}/{127} | Time: 2024-10-20 07:47:47.830476
+Reconstruction Loss: 23095.693
+ 
+Batch: {116}/{127} | Time: 2024-10-20 07:47:59.269644
+Reconstruction Loss: 23629.375
+ 
+Batch: {117}/{127} | Time: 2024-10-20 07:48:05.710481
+Reconstruction Loss: 25930.115
+ 
+Batch: {118}/{127} | Time: 2024-10-20 07:48:28.260181
+Reconstruction Loss: 23102.887
+ 
+Batch: {119}/{127} | Time: 2024-10-20 07:48:50.851970
+Reconstruction Loss: 23233.424
+ 
+Batch: {120}/{127} | Time: 2024-10-20 07:49:03.969795
+Reconstruction Loss: 24382.7
+ 
+Batch: {121}/{127} | Time: 2024-10-20 07:49:17.820853
+Reconstruction Loss: 23192.953
+ 
+Batch: {122}/{127} | Time: 2024-10-20 07:49:26.377076
+Reconstruction Loss: 21388.725
+ 
+Batch: {123}/{127} | Time: 2024-10-20 07:49:58.446941
+Reconstruction Loss: 17670.625
+ 
+Batch: {124}/{127} | Time: 2024-10-20 07:50:31.030046
+Reconstruction Loss: 16063.7
+ 
+Batch: {125}/{127} | Time: 2024-10-20 07:51:01.351371
+Reconstruction Loss: 14876.656
+ 
+Batch: {126}/{127} | Time: 2024-10-20 07:51:27.558324
+Reconstruction Loss: 18104.178
+ 
+Batch: {127}/{127} | Time: 2024-10-20 07:51:49.269911
+Reconstruction Loss: 19875.094
+ 
+Validation of Epoch 8: | Time: 2024-10-20 07:57:26.304646
+Reconstruction Loss: 17449.826
+ 
+Epoch: {9}/{10} | Time: 2024-10-20 07:57:26.547529
+============================================= 
+ 
+Batch: {1}/{127} | Time: 2024-10-20 07:57:42.721942
+Reconstruction Loss: 14236.153
+ 
+Batch: {2}/{127} | Time: 2024-10-20 07:58:24.647435
+Reconstruction Loss: 7238.676
+ 
+Batch: {3}/{127} | Time: 2024-10-20 07:58:45.617869
+Reconstruction Loss: 13245.273
+ 
+Batch: {4}/{127} | Time: 2024-10-20 07:59:10.344161
+Reconstruction Loss: 17790.45
+ 
+Batch: {5}/{127} | Time: 2024-10-20 07:59:20.174535
+Reconstruction Loss: 30885.73
+ 
+Batch: {6}/{127} | Time: 2024-10-20 07:59:41.088237
+Reconstruction Loss: 18758.27
+ 
+Batch: {7}/{127} | Time: 2024-10-20 08:00:16.531107
+Reconstruction Loss: 21074.137
+ 
+Batch: {8}/{127} | Time: 2024-10-20 08:00:45.424337
+Reconstruction Loss: 11028.036
+ 
+Batch: {9}/{127} | Time: 2024-10-20 08:01:14.454902
+Reconstruction Loss: 16383.856
+ 
+Batch: {10}/{127} | Time: 2024-10-20 08:01:36.722972
+Reconstruction Loss: 17287.11
+ 
+Batch: {11}/{127} | Time: 2024-10-20 08:01:51.208852
+Reconstruction Loss: 23654.219
+ 
+Batch: {12}/{127} | Time: 2024-10-20 08:02:08.112868
+Reconstruction Loss: 13501.984
+ 
+Batch: {13}/{127} | Time: 2024-10-20 08:02:30.124989
+Reconstruction Loss: 12661.391
+ 
+Batch: {14}/{127} | Time: 2024-10-20 08:02:54.907430
+Reconstruction Loss: 14391.084
+ 
+Batch: {15}/{127} | Time: 2024-10-20 08:03:11.540316
+Reconstruction Loss: 17704.34
+ 
+Batch: {16}/{127} | Time: 2024-10-20 08:03:34.566308
+Reconstruction Loss: 15187.802
+ 
+Batch: {17}/{127} | Time: 2024-10-20 08:03:55.836380
+Reconstruction Loss: 16201.883
+ 
+Batch: {18}/{127} | Time: 2024-10-20 08:04:23.980698
+Reconstruction Loss: 13531.403
+ 
+Batch: {19}/{127} | Time: 2024-10-20 08:04:48.143731
+Reconstruction Loss: 14877.217
+ 
+Batch: {20}/{127} | Time: 2024-10-20 08:05:09.686893
+Reconstruction Loss: 12667.07
+ 
+Batch: {21}/{127} | Time: 2024-10-20 08:05:31.001933
+Reconstruction Loss: 18056.727
+ 
+Batch: {22}/{127} | Time: 2024-10-20 08:06:00.144375
+Reconstruction Loss: 8952.07
+ 
+Batch: {23}/{127} | Time: 2024-10-20 08:06:23.290689
+Reconstruction Loss: 13330.386
+ 
+Batch: {24}/{127} | Time: 2024-10-20 08:06:47.082748
+Reconstruction Loss: 25079.578
+ 
+Batch: {25}/{127} | Time: 2024-10-20 08:07:02.667298
+Reconstruction Loss: 14758.166
+ 
+Batch: {26}/{127} | Time: 2024-10-20 08:07:05.267987
+Reconstruction Loss: 23470.277
+ 
+Batch: {27}/{127} | Time: 2024-10-20 08:07:24.672122
+Reconstruction Loss: 26542.902
+ 
+Batch: {28}/{127} | Time: 2024-10-20 08:08:03.461683
+Reconstruction Loss: 16214.154
+ 
+Batch: {29}/{127} | Time: 2024-10-20 08:08:21.559158
+Reconstruction Loss: 12878.021
+ 
+Batch: {30}/{127} | Time: 2024-10-20 08:08:37.712617
+Reconstruction Loss: 26485.207
+ 
+Batch: {31}/{127} | Time: 2024-10-20 08:08:52.243488
+Reconstruction Loss: 19826.256
+ 
+Batch: {32}/{127} | Time: 2024-10-20 08:09:07.634494
+Reconstruction Loss: 24516.008
+ 
+Batch: {33}/{127} | Time: 2024-10-20 08:09:15.904514
+Reconstruction Loss: 21678.037
+ 
+Batch: {34}/{127} | Time: 2024-10-20 08:09:44.037055
+Reconstruction Loss: 11887.326
+ 
+Batch: {35}/{127} | Time: 2024-10-20 08:10:24.052663
+Reconstruction Loss: 22408.746
+ 
+Batch: {36}/{127} | Time: 2024-10-20 08:10:48.419839
+Reconstruction Loss: 16325.766
+ 
+Batch: {37}/{127} | Time: 2024-10-20 08:11:07.997283
+Reconstruction Loss: 16744.812
+ 
+Batch: {38}/{127} | Time: 2024-10-20 08:11:20.779763
+Reconstruction Loss: 21873.959
+ 
+Batch: {39}/{127} | Time: 2024-10-20 08:11:31.777248
+Reconstruction Loss: 26178.75
+ 
+Batch: {40}/{127} | Time: 2024-10-20 08:11:54.442462
+Reconstruction Loss: 12502.608
+ 
+Batch: {41}/{127} | Time: 2024-10-20 08:12:20.097925
+Reconstruction Loss: 15916.403
+ 
+Batch: {42}/{127} | Time: 2024-10-20 08:12:36.813174
+Reconstruction Loss: 17081.05
+ 
+Batch: {43}/{127} | Time: 2024-10-20 08:12:59.842889
+Reconstruction Loss: 28662.822
+ 
+Batch: {44}/{127} | Time: 2024-10-20 08:13:25.216975
+Reconstruction Loss: 18533.6
+ 
+Batch: {45}/{127} | Time: 2024-10-20 08:13:49.557415
+Reconstruction Loss: 15643.653
+ 
+Batch: {46}/{127} | Time: 2024-10-20 08:14:03.936122
+Reconstruction Loss: 22591.666
+ 
+Batch: {47}/{127} | Time: 2024-10-20 08:14:16.282060
+Reconstruction Loss: 24867.13
+ 
+Batch: {48}/{127} | Time: 2024-10-20 08:14:39.134661
+Reconstruction Loss: 23422.45
+ 
+Batch: {49}/{127} | Time: 2024-10-20 08:14:59.859790
+Reconstruction Loss: 16729.312
+ 
+Batch: {50}/{127} | Time: 2024-10-20 08:15:15.901250
+Reconstruction Loss: 16616.621
+ 
+Batch: {51}/{127} | Time: 2024-10-20 08:15:21.594425
+Reconstruction Loss: 26052.463
+ 
+Batch: {52}/{127} | Time: 2024-10-20 08:15:46.540405
+Reconstruction Loss: 13704.578
+ 
+Batch: {53}/{127} | Time: 2024-10-20 08:15:56.187590
+Reconstruction Loss: 21290.906
+ 
+Batch: {54}/{127} | Time: 2024-10-20 08:16:19.788559
+Reconstruction Loss: 16969.094
+ 
+Batch: {55}/{127} | Time: 2024-10-20 08:16:50.385479
+Reconstruction Loss: 15404.472
+ 
+Batch: {56}/{127} | Time: 2024-10-20 08:17:06.294186
+Reconstruction Loss: 23110.775
+ 
+Batch: {57}/{127} | Time: 2024-10-20 08:17:27.017896
+Reconstruction Loss: 15981.997
+ 
+Batch: {58}/{127} | Time: 2024-10-20 08:17:47.113117
+Reconstruction Loss: 23279.438
+ 
+Batch: {59}/{127} | Time: 2024-10-20 08:18:09.053423
+Reconstruction Loss: 15657.911
+ 
+Batch: {60}/{127} | Time: 2024-10-20 08:18:43.321679
+Reconstruction Loss: 7989.0225
+ 
+Batch: {61}/{127} | Time: 2024-10-20 08:19:19.434773
+Reconstruction Loss: 15620.771
+ 
+Batch: {62}/{127} | Time: 2024-10-20 08:19:41.662122
+Reconstruction Loss: 24105.332
+ 
+Batch: {63}/{127} | Time: 2024-10-20 08:19:59.157012
+Reconstruction Loss: 19570.059
+ 
+Batch: {64}/{127} | Time: 2024-10-20 08:20:23.122575
+Reconstruction Loss: 11424.49
+ 
+Batch: {65}/{127} | Time: 2024-10-20 08:20:40.766344
+Reconstruction Loss: 21700.021
+ 
+Batch: {66}/{127} | Time: 2024-10-20 08:21:11.333879
+Reconstruction Loss: 9468.214
+ 
+Batch: {67}/{127} | Time: 2024-10-20 08:21:18.668189
+Reconstruction Loss: 25141.781
+ 
+Batch: {68}/{127} | Time: 2024-10-20 08:22:01.625178
+Reconstruction Loss: 13889.545
+ 
+Batch: {69}/{127} | Time: 2024-10-20 08:22:07.217191
+Reconstruction Loss: 27113.506
+ 
+Batch: {70}/{127} | Time: 2024-10-20 08:22:37.157952
+Reconstruction Loss: 11513.548
+ 
+Batch: {71}/{127} | Time: 2024-10-20 08:22:49.692519
+Reconstruction Loss: 26728.215
+ 
+Batch: {72}/{127} | Time: 2024-10-20 08:23:18.619539
+Reconstruction Loss: 16638.623
+ 
+Batch: {73}/{127} | Time: 2024-10-20 08:23:54.759973
+Reconstruction Loss: 16611.215
+ 
+Batch: {74}/{127} | Time: 2024-10-20 08:24:13.935036
+Reconstruction Loss: 16220.32
+ 
+Batch: {75}/{127} | Time: 2024-10-20 08:24:31.490346
+Reconstruction Loss: 16807.863
+ 
+Batch: {76}/{127} | Time: 2024-10-20 08:24:41.241926
+Reconstruction Loss: 27289.578
+ 
+Batch: {77}/{127} | Time: 2024-10-20 08:25:10.542173
+Reconstruction Loss: 17428.492
+ 
+Batch: {78}/{127} | Time: 2024-10-20 08:25:31.985955
+Reconstruction Loss: 20756.598
+ 
+Batch: {79}/{127} | Time: 2024-10-20 08:25:44.928096
+Reconstruction Loss: 15108.424
+ 
+Batch: {80}/{127} | Time: 2024-10-20 08:26:08.935780
+Reconstruction Loss: 16495.012
+ 
+Batch: {81}/{127} | Time: 2024-10-20 08:26:32.615843
+Reconstruction Loss: 14557.005
+ 
+Batch: {82}/{127} | Time: 2024-10-20 08:26:43.106723
+Reconstruction Loss: 20620.387
+ 
+Batch: {83}/{127} | Time: 2024-10-20 08:26:57.069310
+Reconstruction Loss: 17407.707
+ 
+Batch: {84}/{127} | Time: 2024-10-20 08:27:05.259438
+Reconstruction Loss: 17817.445
+ 
+Batch: {85}/{127} | Time: 2024-10-20 08:27:38.246963
+Reconstruction Loss: 7206.0
+ 
+Batch: {86}/{127} | Time: 2024-10-20 08:28:01.524960
+Reconstruction Loss: 10881.205
+ 
+Batch: {87}/{127} | Time: 2024-10-20 08:28:13.891696
+Reconstruction Loss: 20923.115
+ 
+Batch: {88}/{127} | Time: 2024-10-20 08:28:25.502158
+Reconstruction Loss: 28385.791
+ 
+Batch: {89}/{127} | Time: 2024-10-20 08:28:52.705866
+Reconstruction Loss: 19217.605
+ 
+Batch: {90}/{127} | Time: 2024-10-20 08:29:10.454892
+Reconstruction Loss: 14336.826
+ 
+Batch: {91}/{127} | Time: 2024-10-20 08:29:36.903768
+Reconstruction Loss: 20781.635
+ 
+Batch: {92}/{127} | Time: 2024-10-20 08:29:57.403976
+Reconstruction Loss: 20592.023
+ 
+Batch: {93}/{127} | Time: 2024-10-20 08:30:16.650256
+Reconstruction Loss: 14664.553
+ 
+Batch: {94}/{127} | Time: 2024-10-20 08:30:45.326428
+Reconstruction Loss: 14870.99
+ 
+Batch: {95}/{127} | Time: 2024-10-20 08:31:04.901762
+Reconstruction Loss: 20042.969
+ 
+Batch: {96}/{127} | Time: 2024-10-20 08:31:47.741162
+Reconstruction Loss: 11105.627
+ 
+Batch: {97}/{127} | Time: 2024-10-20 08:32:04.493146
+Reconstruction Loss: 17629.918
+ 
+Batch: {98}/{127} | Time: 2024-10-20 08:32:30.156465
+Reconstruction Loss: 16260.271
+ 
+Batch: {99}/{127} | Time: 2024-10-20 08:33:10.685625
+Reconstruction Loss: 11446.78
+ 
+Batch: {100}/{127} | Time: 2024-10-20 08:33:46.454279
+Reconstruction Loss: 13133.997
+ 
+Batch: {101}/{127} | Time: 2024-10-20 08:34:00.498631
+Reconstruction Loss: 15939.143
+ 
+Batch: {102}/{127} | Time: 2024-10-20 08:34:09.828930
+Reconstruction Loss: 23260.426
+ 
+Batch: {103}/{127} | Time: 2024-10-20 08:34:38.252478
+Reconstruction Loss: 11122.42
+ 
+Batch: {104}/{127} | Time: 2024-10-20 08:34:52.397940
+Reconstruction Loss: 18569.96
+ 
+Batch: {105}/{127} | Time: 2024-10-20 08:34:58.345057
+Reconstruction Loss: 25546.062
+ 
+Batch: {106}/{127} | Time: 2024-10-20 08:35:17.691730
+Reconstruction Loss: 17527.348
+ 
+Batch: {107}/{127} | Time: 2024-10-20 08:35:37.393660
+Reconstruction Loss: 19821.658
+ 
+Batch: {108}/{127} | Time: 2024-10-20 08:35:51.182258
+Reconstruction Loss: 30628.37
+ 
+Batch: {109}/{127} | Time: 2024-10-20 08:36:11.878218
+Reconstruction Loss: 16122.88
+ 
+Batch: {110}/{127} | Time: 2024-10-20 08:36:27.839608
+Reconstruction Loss: 20025.488
+ 
+Batch: {111}/{127} | Time: 2024-10-20 08:36:47.696471
+Reconstruction Loss: 10910.81
+ 
+Batch: {112}/{127} | Time: 2024-10-20 08:37:13.785248
+Reconstruction Loss: 24237.676
+ 
+Batch: {113}/{127} | Time: 2024-10-20 08:37:34.700640
+Reconstruction Loss: 12040.123
+ 
+Batch: {114}/{127} | Time: 2024-10-20 08:37:59.983970
+Reconstruction Loss: 14246.523
+ 
+Batch: {115}/{127} | Time: 2024-10-20 08:38:15.347197
+Reconstruction Loss: 18154.916
+ 
+Batch: {116}/{127} | Time: 2024-10-20 08:38:59.917299
+Reconstruction Loss: 11799.911
+ 
+Batch: {117}/{127} | Time: 2024-10-20 08:39:27.555721
+Reconstruction Loss: 20462.215
+ 
+Batch: {118}/{127} | Time: 2024-10-20 08:39:38.955844
+Reconstruction Loss: 27464.88
+ 
+Batch: {119}/{127} | Time: 2024-10-20 08:40:13.603442
+Reconstruction Loss: 15575.575
+ 
+Batch: {120}/{127} | Time: 2024-10-20 08:40:18.959141
+Reconstruction Loss: 28019.348
+ 
+Batch: {121}/{127} | Time: 2024-10-20 08:40:38.026883
+Reconstruction Loss: 14223.9375
+ 
+Batch: {122}/{127} | Time: 2024-10-20 08:41:06.224030
+Reconstruction Loss: 12559.944
+ 
+Batch: {123}/{127} | Time: 2024-10-20 08:41:31.748466
+Reconstruction Loss: 21040.855
+ 
+Batch: {124}/{127} | Time: 2024-10-20 08:41:59.139741
+Reconstruction Loss: 19832.787
+ 
+Batch: {125}/{127} | Time: 2024-10-20 08:42:13.032221
+Reconstruction Loss: 24133.012
+ 
+Batch: {126}/{127} | Time: 2024-10-20 08:42:33.679974
+Reconstruction Loss: 23043.074
+ 
+Batch: {127}/{127} | Time: 2024-10-20 08:43:02.247292
+Reconstruction Loss: 20324.672
+ 
+Validation of Epoch 9: | Time: 2024-10-20 08:48:42.939606
+Reconstruction Loss: 19299.012
+ 
+Epoch: {10}/{10} | Time: 2024-10-20 08:48:43.187626
+============================================= 
+ 
+Batch: {1}/{127} | Time: 2024-10-20 08:48:59.007394
+Reconstruction Loss: 17080.621
+ 
+Batch: {2}/{127} | Time: 2024-10-20 08:49:11.190818
+Reconstruction Loss: 21018.83
+ 
+Batch: {3}/{127} | Time: 2024-10-20 08:49:35.964352
+Reconstruction Loss: 19055.398
+ 
+Batch: {4}/{127} | Time: 2024-10-20 08:49:50.434702
+Reconstruction Loss: 14041.791
+ 
+Batch: {5}/{127} | Time: 2024-10-20 08:50:18.289271
+Reconstruction Loss: 16923.809
+ 
+Batch: {6}/{127} | Time: 2024-10-20 08:50:59.376495
+Reconstruction Loss: 17779.361
+ 
+Batch: {7}/{127} | Time: 2024-10-20 08:51:16.659369
+Reconstruction Loss: 23800.209
+ 
+Batch: {8}/{127} | Time: 2024-10-20 08:51:22.131443
+Reconstruction Loss: 25387.688
+ 
+Batch: {9}/{127} | Time: 2024-10-20 08:51:34.258547
+Reconstruction Loss: 17885.611
+ 
+Batch: {10}/{127} | Time: 2024-10-20 08:51:49.869530
+Reconstruction Loss: 16645.168
+ 
+Batch: {11}/{127} | Time: 2024-10-20 08:52:21.656228
+Reconstruction Loss: 10975.739
+ 
+Batch: {12}/{127} | Time: 2024-10-20 08:52:47.197456
+Reconstruction Loss: 19170.38
+ 
+Batch: {13}/{127} | Time: 2024-10-20 08:52:59.884378
+Reconstruction Loss: 25178.29
+ 
+Batch: {14}/{127} | Time: 2024-10-20 08:53:22.487081
+Reconstruction Loss: 15764.394
+ 
+Batch: {15}/{127} | Time: 2024-10-20 08:53:51.347441
+Reconstruction Loss: 23225.535
+ 
+Batch: {16}/{127} | Time: 2024-10-20 08:54:36.795770
+Reconstruction Loss: 27152.547
+ 
+Batch: {17}/{127} | Time: 2024-10-20 08:54:59.305261
+Reconstruction Loss: 16136.388
+ 
+Batch: {18}/{127} | Time: 2024-10-20 08:55:23.688027
+Reconstruction Loss: 14526.33
+ 
+Batch: {19}/{127} | Time: 2024-10-20 08:55:29.701374
+Reconstruction Loss: 26367.635
+ 
+Batch: {20}/{127} | Time: 2024-10-20 08:55:49.590920
+Reconstruction Loss: 16208.088
+ 
+Batch: {21}/{127} | Time: 2024-10-20 08:56:17.318057
+Reconstruction Loss: 16319.65
+ 
+Batch: {22}/{127} | Time: 2024-10-20 08:56:35.794582
+Reconstruction Loss: 21003.645
+ 
+Batch: {23}/{127} | Time: 2024-10-20 08:56:58.459201
+Reconstruction Loss: 19248.986
+ 
+Batch: {24}/{127} | Time: 2024-10-20 08:57:09.469989
+Reconstruction Loss: 18817.371
+ 
+Batch: {25}/{127} | Time: 2024-10-20 08:57:36.801342
+Reconstruction Loss: 11397.192
+ 
+Batch: {26}/{127} | Time: 2024-10-20 08:57:54.487487
+Reconstruction Loss: 19802.746
+ 
+Batch: {27}/{127} | Time: 2024-10-20 08:58:15.965761
+Reconstruction Loss: 12792.24
+ 
+Batch: {28}/{127} | Time: 2024-10-20 08:58:50.392037
+Reconstruction Loss: 17581.293
+ 
+Batch: {29}/{127} | Time: 2024-10-20 08:59:20.200781
+Reconstruction Loss: 18196.69
+ 
+Batch: {30}/{127} | Time: 2024-10-20 08:59:51.275459
+Reconstruction Loss: 14372.544
+ 
+Batch: {31}/{127} | Time: 2024-10-20 09:00:06.506462
+Reconstruction Loss: 16073.516
+ 
+Batch: {32}/{127} | Time: 2024-10-20 09:00:46.343246
+Reconstruction Loss: 9896.188
+ 
+Batch: {33}/{127} | Time: 2024-10-20 09:01:13.735953
+Reconstruction Loss: 13942.651
+ 
+Batch: {34}/{127} | Time: 2024-10-20 09:01:25.719378
+Reconstruction Loss: 19974.998
+ 
+Batch: {35}/{127} | Time: 2024-10-20 09:01:58.434883
+Reconstruction Loss: 19272.582
+ 
+Batch: {36}/{127} | Time: 2024-10-20 09:02:34.718448
+Reconstruction Loss: 11949.242
+ 
+Batch: {37}/{127} | Time: 2024-10-20 09:02:52.312365
+Reconstruction Loss: 19481.564
+ 
+Batch: {38}/{127} | Time: 2024-10-20 09:03:13.616827
+Reconstruction Loss: 15420.708
+ 
+Batch: {39}/{127} | Time: 2024-10-20 09:03:45.383910
+Reconstruction Loss: 12342.553
+ 
+Batch: {40}/{127} | Time: 2024-10-20 09:04:11.018426
+Reconstruction Loss: 15849.519
+ 
+Batch: {41}/{127} | Time: 2024-10-20 09:04:26.824875
+Reconstruction Loss: 20229.691
+ 
+Batch: {42}/{127} | Time: 2024-10-20 09:04:59.671461
+Reconstruction Loss: 14722.5
+ 
+Batch: {43}/{127} | Time: 2024-10-20 09:05:23.327403
+Reconstruction Loss: 26079.59
+ 
+Batch: {44}/{127} | Time: 2024-10-20 09:05:56.609156
+Reconstruction Loss: 20388.887
+ 
+Batch: {45}/{127} | Time: 2024-10-20 09:06:11.356945
+Reconstruction Loss: 15082.053
+ 
+Batch: {46}/{127} | Time: 2024-10-20 09:06:25.294293
+Reconstruction Loss: 22139.975
+ 
+Batch: {47}/{127} | Time: 2024-10-20 09:06:53.554112
+Reconstruction Loss: 12991.87
+ 
+Batch: {48}/{127} | Time: 2024-10-20 09:07:05.339313
+Reconstruction Loss: 14380.561
+ 
+Batch: {49}/{127} | Time: 2024-10-20 09:07:38.874305
+Reconstruction Loss: 6149.8857
+ 
+Batch: {50}/{127} | Time: 2024-10-20 09:07:58.126546
+Reconstruction Loss: 15663.388
+ 
+Batch: {51}/{127} | Time: 2024-10-20 09:08:03.451649
+Reconstruction Loss: 24217.418
+ 
+Batch: {52}/{127} | Time: 2024-10-20 09:08:29.809651
+Reconstruction Loss: 13431.716
+ 
+Batch: {53}/{127} | Time: 2024-10-20 09:09:05.869159
+Reconstruction Loss: 21633.531
+ 
+Batch: {54}/{127} | Time: 2024-10-20 09:09:27.784638
+Reconstruction Loss: 16199.443
+ 
+Batch: {55}/{127} | Time: 2024-10-20 09:10:04.364217
+Reconstruction Loss: 12959.711
+ 
+Batch: {56}/{127} | Time: 2024-10-20 09:10:20.028632
+Reconstruction Loss: 27586.52
+ 
+Batch: {57}/{127} | Time: 2024-10-20 09:10:51.067063
+Reconstruction Loss: 21587.355
+ 
+Batch: {58}/{127} | Time: 2024-10-20 09:11:07.349102
+Reconstruction Loss: 21005.271
+ 
+Batch: {59}/{127} | Time: 2024-10-20 09:11:36.144626
+Reconstruction Loss: 22945.88
+ 
+Batch: {60}/{127} | Time: 2024-10-20 09:12:11.450890
+Reconstruction Loss: 15917.08
+ 
+Batch: {61}/{127} | Time: 2024-10-20 09:12:28.142058
+Reconstruction Loss: 17790.318
+ 
+Batch: {62}/{127} | Time: 2024-10-20 09:13:05.684792
+Reconstruction Loss: 13415.291
+ 
+Batch: {63}/{127} | Time: 2024-10-20 09:13:21.159364
+Reconstruction Loss: 19552.9
+ 
+Batch: {64}/{127} | Time: 2024-10-20 09:13:44.445931
+Reconstruction Loss: 16710.387
+ 
+Batch: {65}/{127} | Time: 2024-10-20 09:14:15.186472
+Reconstruction Loss: 16428.965
+ 
+Batch: {66}/{127} | Time: 2024-10-20 09:14:41.717328
+Reconstruction Loss: 21326.12
+ 
+Batch: {67}/{127} | Time: 2024-10-20 09:14:49.963500
+Reconstruction Loss: 23724.031
+ 
+Batch: {68}/{127} | Time: 2024-10-20 09:15:11.429282
+Reconstruction Loss: 11920.907
+ 
+Batch: {69}/{127} | Time: 2024-10-20 09:15:30.074126
+Reconstruction Loss: 17120.338
+ 
+Batch: {70}/{127} | Time: 2024-10-20 09:15:52.299531
+Reconstruction Loss: 17447.145
+ 
+Batch: {71}/{127} | Time: 2024-10-20 09:16:22.444955
+Reconstruction Loss: 9003.717
+ 
+Batch: {72}/{127} | Time: 2024-10-20 09:16:57.316955
+Reconstruction Loss: 19749.316
+ 
+Batch: {73}/{127} | Time: 2024-10-20 09:17:21.229096
+Reconstruction Loss: 9328.692
+ 
+Batch: {74}/{127} | Time: 2024-10-20 09:17:49.811161
+Reconstruction Loss: 22513.988
+ 
+Batch: {75}/{127} | Time: 2024-10-20 09:18:06.079278
+Reconstruction Loss: 22378.562
+ 
+Batch: {76}/{127} | Time: 2024-10-20 09:18:32.875128
+Reconstruction Loss: 13026.624
+ 
+Batch: {77}/{127} | Time: 2024-10-20 09:19:06.986737
+Reconstruction Loss: 12632.976
+ 
+Batch: {78}/{127} | Time: 2024-10-20 09:19:15.641234
+Reconstruction Loss: 20643.613
+ 
+Batch: {79}/{127} | Time: 2024-10-20 09:19:30.809577
+Reconstruction Loss: 16347.567
+ 
+Batch: {80}/{127} | Time: 2024-10-20 09:19:49.681248
+Reconstruction Loss: 26220.719
+ 
+Batch: {81}/{127} | Time: 2024-10-20 09:19:59.096686
+Reconstruction Loss: 25248.611
+ 
+Batch: {82}/{127} | Time: 2024-10-20 09:20:15.222955
+Reconstruction Loss: 27480.62
+ 
+Batch: {83}/{127} | Time: 2024-10-20 09:20:36.826531
+Reconstruction Loss: 29221.12
+ 
+Batch: {84}/{127} | Time: 2024-10-20 09:21:17.809107
+Reconstruction Loss: 12992.712
+ 
+Batch: {85}/{127} | Time: 2024-10-20 09:21:35.797279
+Reconstruction Loss: 16672.746
+ 
+Batch: {86}/{127} | Time: 2024-10-20 09:22:16.359803
+Reconstruction Loss: 19148.355
+ 
+Batch: {87}/{127} | Time: 2024-10-20 09:22:31.816939
+Reconstruction Loss: 20611.15
+ 
+Batch: {88}/{127} | Time: 2024-10-20 09:22:37.297668
+Reconstruction Loss: 20850.97
+ 
+Batch: {89}/{127} | Time: 2024-10-20 09:22:57.718770
+Reconstruction Loss: 17340.652
+ 
+Batch: {90}/{127} | Time: 2024-10-20 09:23:28.856751
+Reconstruction Loss: 11516.53
+ 
+Batch: {91}/{127} | Time: 2024-10-20 09:23:38.454322
+Reconstruction Loss: 24399.928
+ 
+Batch: {92}/{127} | Time: 2024-10-20 09:24:09.968485
+Reconstruction Loss: 16776.547
+ 
+Batch: {93}/{127} | Time: 2024-10-20 09:24:18.902520
+Reconstruction Loss: 21295.49
+ 
+Batch: {94}/{127} | Time: 2024-10-20 09:24:43.985009
+Reconstruction Loss: 20124.256
+ 
+Batch: {95}/{127} | Time: 2024-10-20 09:25:02.493118
+Reconstruction Loss: 16704.676
+ 
+Batch: {96}/{127} | Time: 2024-10-20 09:25:26.269830
+Reconstruction Loss: 9123.681
+ 
+Batch: {97}/{127} | Time: 2024-10-20 09:25:42.216675
+Reconstruction Loss: 17651.963
+ 
+Batch: {98}/{127} | Time: 2024-10-20 09:26:12.033401
+Reconstruction Loss: 19294.064
+ 
+Batch: {99}/{127} | Time: 2024-10-20 09:26:37.551207
+Reconstruction Loss: 6950.7407
+ 
+Batch: {100}/{127} | Time: 2024-10-20 09:26:45.713266
+Reconstruction Loss: 20537.336
+ 
+Batch: {101}/{127} | Time: 2024-10-20 09:26:55.414112
+Reconstruction Loss: 27033.447
+ 
+Batch: {102}/{127} | Time: 2024-10-20 09:27:03.755056
+Reconstruction Loss: 17492.535
+ 
+Batch: {103}/{127} | Time: 2024-10-20 09:27:23.361476
+Reconstruction Loss: 13950.086
+ 
+Batch: {104}/{127} | Time: 2024-10-20 09:27:35.137863
+Reconstruction Loss: 21814.973
+ 
+Batch: {105}/{127} | Time: 2024-10-20 09:27:44.609848
+Reconstruction Loss: 23745.766
+ 
+Batch: {106}/{127} | Time: 2024-10-20 09:28:06.745645
+Reconstruction Loss: 12927.127
+ 
+Batch: {107}/{127} | Time: 2024-10-20 09:28:25.107217
+Reconstruction Loss: 13969.006
+ 
+Batch: {108}/{127} | Time: 2024-10-20 09:28:40.782050
+Reconstruction Loss: 18675.494
+ 
+Batch: {109}/{127} | Time: 2024-10-20 09:29:09.315131
+Reconstruction Loss: 14913.083
+ 
+Batch: {110}/{127} | Time: 2024-10-20 09:29:26.633565
+Reconstruction Loss: 22049.754
+ 
+Batch: {111}/{127} | Time: 2024-10-20 09:30:09.615732
+Reconstruction Loss: 14870.717
+ 
+Batch: {112}/{127} | Time: 2024-10-20 09:30:22.173357
+Reconstruction Loss: 18387.953
+ 
+Batch: {113}/{127} | Time: 2024-10-20 09:30:38.691422
+Reconstruction Loss: 19359.807
+ 
+Batch: {114}/{127} | Time: 2024-10-20 09:31:08.098195
+Reconstruction Loss: 13715.425
+ 
+Batch: {115}/{127} | Time: 2024-10-20 09:31:48.493701
+Reconstruction Loss: 14350.391
+ 
+Batch: {116}/{127} | Time: 2024-10-20 09:32:18.355372
+Reconstruction Loss: 15113.414
+ 
+Batch: {117}/{127} | Time: 2024-10-20 09:32:46.526951
+Reconstruction Loss: 17352.48
+ 
+Batch: {118}/{127} | Time: 2024-10-20 09:33:25.147220
+Reconstruction Loss: 9404.5
+ 
+Batch: {119}/{127} | Time: 2024-10-20 09:33:53.649280
+Reconstruction Loss: 16189.386
+ 
+Batch: {120}/{127} | Time: 2024-10-20 09:34:15.490016
+Reconstruction Loss: 16918.441
+ 
+Batch: {121}/{127} | Time: 2024-10-20 09:34:41.752209
+Reconstruction Loss: 15266.795
+ 
+Batch: {122}/{127} | Time: 2024-10-20 09:35:09.000834
+Reconstruction Loss: 12465.769
+ 
+Batch: {123}/{127} | Time: 2024-10-20 09:35:21.290323
+Reconstruction Loss: 16063.214
+ 
+Batch: {124}/{127} | Time: 2024-10-20 09:35:23.882268
+Reconstruction Loss: 24775.34
+ 
+Batch: {125}/{127} | Time: 2024-10-20 09:35:43.930587
+Reconstruction Loss: 13378.797
+ 
+Batch: {126}/{127} | Time: 2024-10-20 09:35:53.134198
+Reconstruction Loss: 20260.176
+ 
+Batch: {127}/{127} | Time: 2024-10-20 09:36:08.872485
+Reconstruction Loss: 19647.613
+ 
+Validation of Epoch 10: | Time: 2024-10-20 09:41:21.596452
+Reconstruction Loss: 17332.094
+ 
+Last epoch reached. Model weights are now saved. 
+ 
