@@ -6,4 +6,4 @@ The U-Net CNN model architecture was inspired by the Vox2Vox 3D GAN model by Mar
 
 All relevant data files to recreate figures and tables from the paper are included. Original image data and saved models are stored in this repository. (NEED LINK!!!)
 
-
+The ANN and MLR models are created and trained in Matlab
