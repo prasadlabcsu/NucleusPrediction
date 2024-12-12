@@ -24,3 +24,7 @@ ffmpeg is required in order to create animations of the 3D predictions of nuclei
 Please note that all paths should be updated to your machine's paths before running any scripts.
 
 The CNN model scripts are run as modules from the main_UNET script. All other scripts can be run individually.
+
+Credits to contributors:
+- Sebastian Lawton
+- Rosi A. Danzman
