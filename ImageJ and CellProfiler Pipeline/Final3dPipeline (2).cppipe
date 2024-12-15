@@ -1,0 +1,338 @@
+CellProfiler Pipeline: http://www.cellprofiler.org
+Version:5
+DateRevision:427
+GitHash:
+ModuleCount:19
+HasImagePlaneDetails:False
+
+Images:[module_num:1|svn_version:'Unknown'|variable_revision_number:2|show_window:False|notes:['Used 2024/04/13 y27/h11 data set', 'did not use any h11 data ', 'omitted capture 1 position 1 and 2 of the control', 'omitted everything after capture 7 position 7 of the y27 images']|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    :
+    Filter images?:No filtering
+    Select the rule criteria:and (extension does isimage) (directory doesnot containregexp "[\\\\/]\\.")
+
+Metadata:[module_num:2|svn_version:'Unknown'|variable_revision_number:6|show_window:False|notes:['The Metadata module optionally allows you to extract information describing your images (i.e, metadata) which will be stored along with your measurements. This information can be contained in the file name and/or location, or in an external file.']|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Extract metadata?:No
+    Metadata data type:Text
+    Metadata types:{}
+    Extraction method count:2
+    Metadata extraction method:Extract from file/folder names
+    Metadata source:File name
+    Regular expression to extract from file name:^Experiment-(?P<ExperimentNumber>\d+)\.czi$
+    Regular expression to extract from folder name:(?P<Date>[0-9]{4}_[0-9]{2}_[0-9]{2})$
+    Extract metadata from:All images
+    Select the filtering criteria:and (file does contain "")
+    Metadata file location:Elsewhere...|
+    Match file and image metadata:[]
+    Use case insensitive matching?:No
+    Metadata file name:None
+    Does cached metadata exist?:Yes
+    Metadata extraction method:Extract from image file headers
+    Metadata source:File name
+    Regular expression to extract from file name:^(?P<Plate>.*)_(?P<Well>[A-P][0-9]{2})_s(?P<Site>[0-9])_w(?P<ChannelNumber>[0-9])
+    Regular expression to extract from folder name:(?P<Date>[0-9]{4}_[0-9]{2}_[0-9]{2})$
+    Extract metadata from:All images
+    Select the filtering criteria:and (file does contain "")
+    Metadata file location:Elsewhere...|
+    Match file and image metadata:[]
+    Use case insensitive matching?:No
+    Metadata file name:None
+    Does cached metadata exist?:Yes
+
+NamesAndTypes:[module_num:3|svn_version:'Unknown'|variable_revision_number:8|show_window:False|notes:['The NamesAndTypes module allows you to assign a meaningful name to each image by which other modules will refer to it.']|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Assign a name to:Images matching rules
+    Select the image type:Color image
+    Name to assign these images:rawImage
+    Match metadata:[]
+    Image set matching method:Order
+    Set intensity range from:Image metadata
+    Assignments count:2
+    Single images count:0
+    Maximum intensity:255.0
+    Process as 3D?:Yes
+    Relative pixel spacing in X:1.0
+    Relative pixel spacing in Y:1.0
+    Relative pixel spacing in Z:1.682242990654056
+    Select the rule criteria:and (file doesnot contain "nuc")
+    Name to assign these images:actin
+    Name to assign these objects:Cell
+    Select the image type:Grayscale image
+    Set intensity range from:Image metadata
+    Maximum intensity:255.0
+    Select the rule criteria:and (file does contain "nuc")
+    Name to assign these images:nuc
+    Name to assign these objects:Cell
+    Select the image type:Grayscale image
+    Set intensity range from:Image metadata
+    Maximum intensity:255.0
+
+Groups:[module_num:4|svn_version:'Unknown'|variable_revision_number:2|show_window:False|notes:['The Groups module optionally allows you to split your list of images into image subsets (groups) which will be processed independently of each other. Examples of groupings include screening batches, microtiter plates, time-lapse movies, etc.']|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Do you want to group your images?:No
+    grouping metadata count:1
+    Metadata category:None
+
+RunCellpose:[module_num:5|svn_version:'Unknown'|variable_revision_number:5|show_window:False|notes:['returns cell objects omitting the cells touching the barrier']|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Select the input image:actin
+    Rescale images before running Cellpose:No
+    Run CellPose in docker or local python environment:Docker
+    Select Cellpose docker image:cellprofiler/runcellpose_no_pretrained:0.1
+    Expected object diameter:55
+    Detection mode:cyto2
+    Name the output object:segCell
+    Use GPU:No
+    Use averaging:No
+    Supply nuclei image as well?:Yes
+    Select the nuclei image:nuc
+    Save probability image?:No
+    Name the probability image:Probabilities
+    Location of the pre-trained model file:Elsewhere...|
+    Pre-trained model file name:cyto_0
+    Flow threshold:.4
+    Cell probability threshold:0
+    GPU memory share for each worker:0.1
+    Stitch Threshold:.1
+    Use 3D:No
+    Minimum size:10
+    Use Omnipose for mask reconstruction:No
+    Invert images:No
+    Remove objects that are touching the edge?:No
+
+RunCellpose:[module_num:6|svn_version:'Unknown'|variable_revision_number:5|show_window:False|notes:[]|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Select the input image:nuc
+    Rescale images before running Cellpose:Yes
+    Run CellPose in docker or local python environment:Docker
+    Select Cellpose docker image:cellprofiler/runcellpose_no_pretrained:0.1
+    Expected object diameter:28
+    Detection mode:nuclei
+    Name the output object:segNuc
+    Use GPU:No
+    Use averaging:No
+    Supply nuclei image as well?:No
+    Select the nuclei image:None
+    Save probability image?:No
+    Name the probability image:Probabilities
+    Location of the pre-trained model file:Elsewhere...|
+    Pre-trained model file name:cyto_0
+    Flow threshold:0.4
+    Cell probability threshold:0.0
+    GPU memory share for each worker:0.1
+    Stitch Threshold:.1
+    Use 3D:No
+    Minimum size:15
+    Use Omnipose for mask reconstruction:No
+    Invert images:No
+    Remove objects that are touching the edge?:No
+
+MeasureObjectSizeShape:[module_num:7|svn_version:'Unknown'|variable_revision_number:3|show_window:False|notes:[]|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Select object sets to measure:segCell, segNuc
+    Calculate the Zernike features?:No
+    Calculate the advanced features?:No
+
+FilterObjects:[module_num:8|svn_version:'Unknown'|variable_revision_number:10|show_window:False|notes:[]|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Select the objects to filter:segCell
+    Name the output objects:FilterObjects
+    Select the filtering mode:Measurements
+    Select the filtering method:Limits
+    Select the objects that contain the filtered objects:None
+    Select the location of the rules or classifier file:Elsewhere...|
+    Rules or classifier file name:rules.txt
+    Class number:1
+    Measurement count:6
+    Additional object count:0
+    Assign overlapping child to:Both parents
+    Keep removed objects as a separate set?:No
+    Name the objects removed by the filter:RemovedObjects
+    Select the measurement to filter by:AreaShape_Volume
+    Filter using a minimum measurement value?:Yes
+    Minimum value:31000
+    Filter using a maximum measurement value?:No
+    Maximum value:1.0
+    Select the measurement to filter by:AreaShape_BoundingBoxMinimum_Z
+    Filter using a minimum measurement value?:No
+    Minimum value:0.0
+    Filter using a maximum measurement value?:Yes
+    Maximum value:10
+    Select the measurement to filter by:AreaShape_BoundingBoxMaximum_X
+    Filter using a minimum measurement value?:No
+    Minimum value:70
+    Filter using a maximum measurement value?:Yes
+    Maximum value:954
+    Select the measurement to filter by:AreaShape_BoundingBoxMinimum_X
+    Filter using a minimum measurement value?:Yes
+    Minimum value:70
+    Filter using a maximum measurement value?:No
+    Maximum value:954
+    Select the measurement to filter by:AreaShape_BoundingBoxMinimum_Y
+    Filter using a minimum measurement value?:Yes
+    Minimum value:70
+    Filter using a maximum measurement value?:No
+    Maximum value:1.0
+    Select the measurement to filter by:AreaShape_BoundingBoxMaximum_Y
+    Filter using a minimum measurement value?:No
+    Minimum value:0.0
+    Filter using a maximum measurement value?:Yes
+    Maximum value:954
+    Allow fuzzy feature matching?:No
+
+FilterObjects:[module_num:9|svn_version:'Unknown'|variable_revision_number:10|show_window:False|notes:[]|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Select the objects to filter:segNuc
+    Name the output objects:FilterObjectsnuc
+    Select the filtering mode:Measurements
+    Select the filtering method:Limits
+    Select the objects that contain the filtered objects:None
+    Select the location of the rules or classifier file:Elsewhere...|
+    Rules or classifier file name:rules.txt
+    Class number:1
+    Measurement count:6
+    Additional object count:0
+    Assign overlapping child to:Both parents
+    Keep removed objects as a separate set?:No
+    Name the objects removed by the filter:RemovedObjects
+    Select the measurement to filter by:AreaShape_Volume
+    Filter using a minimum measurement value?:Yes
+    Minimum value:17000
+    Filter using a maximum measurement value?:No
+    Maximum value:1.0
+    Select the measurement to filter by:AreaShape_BoundingBoxMinimum_Z
+    Filter using a minimum measurement value?:No
+    Minimum value:10
+    Filter using a maximum measurement value?:Yes
+    Maximum value:10
+    Select the measurement to filter by:AreaShape_BoundingBoxMaximum_X
+    Filter using a minimum measurement value?:No
+    Minimum value:954
+    Filter using a maximum measurement value?:Yes
+    Maximum value:954
+    Select the measurement to filter by:AreaShape_BoundingBoxMinimum_Y
+    Filter using a minimum measurement value?:Yes
+    Minimum value:70
+    Filter using a maximum measurement value?:No
+    Maximum value:954
+    Select the measurement to filter by:AreaShape_BoundingBoxMaximum_Y
+    Filter using a minimum measurement value?:No
+    Minimum value:70
+    Filter using a maximum measurement value?:Yes
+    Maximum value:954
+    Select the measurement to filter by:AreaShape_BoundingBoxMinimum_Y
+    Filter using a minimum measurement value?:Yes
+    Minimum value:70
+    Filter using a maximum measurement value?:No
+    Maximum value:954
+    Allow fuzzy feature matching?:No
+
+RelateObjects:[module_num:10|svn_version:'Unknown'|variable_revision_number:5|show_window:False|notes:[]|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Parent objects:FilterObjects
+    Child objects:FilterObjectsnuc
+    Calculate child-parent distances?:Minimum
+    Calculate per-parent means for all child measurements?:No
+    Calculate distances to other parents?:No
+    Do you want to save the children with parents as a new object set?:No
+    Name the output object:RelateObjects
+    Parent name:None
+
+MeasureTexture:[module_num:11|svn_version:'Unknown'|variable_revision_number:7|show_window:False|notes:[]|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Select images to measure:actin, nuc
+    Select objects to measure:FilterObjects, FilterObjectsnuc
+    Enter how many gray levels to measure the texture at:256
+    Hidden:1
+    Measure whole images or objects?:Objects
+    Texture scale to measure:3
+
+MeasureObjectIntensity:[module_num:12|svn_version:'Unknown'|variable_revision_number:4|show_window:False|notes:[]|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Select images to measure:actin, nuc
+    Select objects to measure:FilterObjects, FilterObjectsnuc
+
+ConvertObjectsToImage:[module_num:13|svn_version:'Unknown'|variable_revision_number:1|show_window:False|notes:[]|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Select the input objects:FilterObjects
+    Name the output image:cellSegmented
+    Select the color format:Grayscale
+    Select the colormap:Default
+
+ConvertObjectsToImage:[module_num:14|svn_version:'Unknown'|variable_revision_number:1|show_window:False|notes:[]|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Select the input objects:FilterObjectsnuc
+    Name the output image:nucSegmented
+    Select the color format:Grayscale
+    Select the colormap:Default
+
+SaveCroppedObjects:[module_num:15|svn_version:'Unknown'|variable_revision_number:3|show_window:False|notes:[]|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Do you want to save cropped images or object masks?:Masks
+    Objects:FilterObjects
+    Directory:Default Output Folder
+    Prefix saved crop image name with input image name?:Yes
+    Select image name to use as a prefix:actin
+    Save output crops in nested folders?:No
+    Saved file format:8-bit tiff
+    Image to crop:None
+
+SaveCroppedObjects:[module_num:16|svn_version:'Unknown'|variable_revision_number:3|show_window:False|notes:[]|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Do you want to save cropped images or object masks?:Masks
+    Objects:FilterObjectsnuc
+    Directory:Default Output Folder
+    Prefix saved crop image name with input image name?:Yes
+    Select image name to use as a prefix:nuc
+    Save output crops in nested folders?:No
+    Saved file format:8-bit tiff
+    Image to crop:None
+
+SaveImages:[module_num:17|svn_version:'Unknown'|variable_revision_number:16|show_window:False|notes:[]|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Select the type of image to save:Image
+    Select the image to save:cellSegmented
+    Select method for constructing file names:From image filename
+    Select image name for file prefix:actin
+    Enter single file name:OrigBlue
+    Number of digits:4
+    Append a suffix to the image file name?:Yes
+    Text to append to the image name:Y27
+    Saved file format:tiff
+    Output file location:Default Output Folder|
+    Image bit depth:8-bit integer
+    Overwrite existing files without warning?:Yes
+    When to save:Every cycle
+    Record the file and path information to the saved image?:No
+    Create subfolders in the output folder?:No
+    Base image folder:Elsewhere...|
+    How to save the series:T (Time)
+    Save with lossless compression?:Yes
+
+SaveImages:[module_num:18|svn_version:'Unknown'|variable_revision_number:16|show_window:False|notes:[]|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Select the type of image to save:Image
+    Select the image to save:nucSegmented
+    Select method for constructing file names:From image filename
+    Select image name for file prefix:nuc
+    Enter single file name:OrigBlue
+    Number of digits:4
+    Append a suffix to the image file name?:Yes
+    Text to append to the image name:Y27nuc
+    Saved file format:tiff
+    Output file location:Default Output Folder|Desktop/PrasadLab/Images/output
+    Image bit depth:8-bit integer
+    Overwrite existing files without warning?:Yes
+    When to save:Every cycle
+    Record the file and path information to the saved image?:No
+    Create subfolders in the output folder?:No
+    Base image folder:Elsewhere...|
+    How to save the series:T (Time)
+    Save with lossless compression?:Yes
+
+ExportToSpreadsheet:[module_num:19|svn_version:'Unknown'|variable_revision_number:13|show_window:False|notes:[]|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Select the column delimiter:Comma (",")
+    Add image metadata columns to your object data file?:Yes
+    Add image file and folder names to your object data file?:Yes
+    Select the measurements to export:No
+    Calculate the per-image mean values for object measurements?:No
+    Calculate the per-image median values for object measurements?:No
+    Calculate the per-image standard deviation values for object measurements?:No
+    Output file location:Default Output Folder|
+    Create a GenePattern GCT file?:No
+    Select source of sample row name:Metadata
+    Select the image to use as the identifier:None
+    Select the metadata to use as the identifier:None
+    Export all measurement types?:Yes
+    Press button to select measurements:
+    Representation of Nan/Inf:NaN
+    Add a prefix to file names?:Yes
+    Filename prefix:MyExpt_
+    Overwrite existing files without warning?:Yes
+    Data to export:Do not use
+    Combine these object measurements with those of the previous object?:No
+    File name:DATA.csv
+    Use the object name for the file name?:Yes
