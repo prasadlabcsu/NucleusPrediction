@@ -28,3 +28,4 @@ The CNN model scripts are run as modules from the main_UNET script. All other sc
 Credits to contributors:
 - Sebastian Lawton
 - Rosi A. Danzman
+- Renzo Spagnuolo
