@@ -4,7 +4,7 @@ This repository contains scripts and generated data files to recreate the figure
 
 The U-Net CNN model architecture was inspired by the Vox2Vox 3D GAN model by Marco Domenico Cirillo, David Abramian, and Anders Eklund.
 
-All relevant data files to recreate figures and tables from the paper are included. Original image data and saved models are stored in this repository. (NEED LINK!!!)
+All relevant data files to recreate figures and tables from the paper are included. Original image data and saved models are stored in this repository. Raw images are stored on DRYAD. (NEED LINK!!!)
 
 The ANN and MLR models are created and trained in MATLAB, and their results are plotted and analyzed in MATLAB as well.
 No additional toolboxes are required to run the MATLAB scripts.
@@ -27,5 +27,8 @@ The CNN model scripts are run as modules from the main_UNET script. All other sc
 
 Credits to contributors:
 - Sebastian Lawton
-- Rosi A. Danzman
+- R. A. Danzman
 - Renzo Spagnuolo
+- Skylar Stephan
+- Sydney Graul
+- Dr. Ashok Prasad
