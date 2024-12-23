@@ -11,7 +11,7 @@ No additional toolboxes are required to run the MATLAB scripts.
 
 The CNN models are created and trained in Tensorflow.
 
-Python Requirements:
+Required Python Libraries:
 - numpy
 - tensorflow
 - imageio
