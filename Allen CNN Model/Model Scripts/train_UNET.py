@@ -8,7 +8,7 @@ from models_UNET import *
 from losses_UNET import *
 from datetime import datetime as dt
 
-# Calling and creating the models
+# Calling and creating the model
 U = UNET()
 
 # Defining the optimizers (gradient calculators for updating the model parameters)

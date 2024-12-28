@@ -1,5 +1,5 @@
-# This is the main script for the entire VAE-GAN model creation and training.
-# This is the script which should be called when training or defining VAE-GAN models.
+# This is the main script for the entire Cell2Nuc model creation and training.
+# This is the script which should be called when training or defining Cell2Nuc models.
 # The other scripts are imported as modules which contain the bulk of the functions and classes which build
 # the model, generate the batches of training and validation set data, and train the model parameters.
 
@@ -39,6 +39,7 @@ from train_UNET import *
 
 # Images lists
     # Each lists all the file paths for the respective image types and sorted by the image number by the function num_sort
+    # Be sure to change the paths where this code should look for your images if running for the first time
 
 Actin_list = sorted(glob.glob('/nfs/home/*slawto/*Actin_Images_TIFF/*Actin_Standard*.tiff'),key=num_sort)
 Nucleus_list = sorted(glob.glob('/nfs/home/*slawto/*Actin_Images_TIFF/*Nucleus_Standard*.tiff'),key=num_sort)
@@ -111,5 +112,5 @@ for i in model_nums: # For each of the cross-fold models: ...
     train_gen = DataGenerator(sets['train'], batch_size=batch_size, augmentation=True) # Creates the training and validation data generator classes for the models to call when training
     valid_gen = DataGenerator(sets['valid'], batch_size=batch_size, augmentation=True)
     
-    # Train the vox2vox model
+    # Train the Cell2Nuc model
     h = fit(train_gen, valid_gen, n_epochs, i) # Calls the training function for the entire model

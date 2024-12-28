@@ -1,6 +1,4 @@
-# This module defines the loss functions for each of the models used in training and validation.
-# The Encoder, Generator, and Discriminator models each have their own loss funtion based on what the
-# models are actually trying to accomplish.
+# This module defines the loss function for the model. The function implemented here is a binary cross entropy loss (BCE).
 
 # Importing packages
 
