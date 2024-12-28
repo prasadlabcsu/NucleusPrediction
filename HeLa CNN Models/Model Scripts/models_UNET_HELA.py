@@ -1,9 +1,8 @@
-# This module creates the VAE-GAN model. It is made up of 3 smaller models, the Enocder which takes in
-# input images and through convolutions returns a probability distrubtion and the actual values (z) of the
-# latent distribution of variables describing the predicitve qualities of the image, the Generator which
-# uses the z values and sampled (pz) values from the distribution to generate images as predictions of the
-# nuclear shape in 3D as a mask, and the Discriminator which takes in the original input image and a real
-# or generated nucleus to determine if the image is real (1) or fake/generated (0).
+# This module creates the Cell2Nuc model. It is all one model, though there are individual steps
+# which belong either to an encoding region or decoding region. These are the convolution,
+# normalization, and activation layers that define one step up or down the U-Net architecture
+# and either encode the information of the cell membrane input image to a lower dimension, or
+# decode that information into a nuclear membrane image prediction.
 
 # Importing packages
 

@@ -8,7 +8,7 @@ from models_UNET_HELA import *
 from losses_UNET_HELA import *
 from datetime import datetime as dt
 
-# Calling and creating the models
+# Calling and creating the model
 U = UNET()
 
 # Defining the optimizers (gradient calculators for updating the model parameters)
